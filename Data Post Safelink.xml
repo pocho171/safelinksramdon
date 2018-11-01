@@ -1,0 +1,1359 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet href="https://www.blogger.com/styles/atom.css" type="text/css"?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:thr='http://purl.org/syndication/thread/1.0' xmlns:georss='http://www.georss.org/georss'><id>tag:blogger.com,1999:blog-450943824368432516.archive</id><updated>2018-09-27T17:27:49.133-07:00</updated><title type='text'>Safelink Random Post</title><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/archive'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/archive'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/archive'/><link rel='alternate' type='text/html' href='http://safelinkrandompost.blogspot.com/'/><author><name>Ruby Jr</name><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author><generator version='7.00' uri='https://www.blogger.com'>Blogger</generator><entry><id>tag:blogger.com,1999:blog-450943824368432516.layout</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#template'/><title type='text'>Template: Safelink Random Post</title><content type='text'>&lt;?xml version="1.0" encoding="UTF-8" ?&gt;
+&lt;!DOCTYPE html&gt;
+&lt;HTML expr:dir='data:blog.languageDirection'&gt;
+&amp;lt;head&amp;gt;
+&lt;meta content='UJwD4UWRGfKBIkfUYO1-bjqQYazXQ6OkdjqMs_M4Pho' name='google-site-verification'/&gt;
+  &lt;meta charset='utf-8'/&gt;
+  &lt;meta content='IE=edge' http-equiv='X-UA-Compatible'/&gt;
+  &lt;meta content='width=device-width, initial-scale=1' name='viewport'/&gt;
+&lt;b:if cond='data:blog.pageType == &amp;quot;index&amp;quot;'&gt;
+    &lt;title&gt;&lt;data:blog.pageTitle/&gt;&lt;/title&gt;
+&lt;b:else/&gt;
+    &lt;b:if cond='data:blog.pageType == &amp;quot;error_page&amp;quot;'&gt;
+        &lt;title&gt;404: Page Not Found | &lt;data:blog.title/&gt;&lt;/title&gt;
+    &lt;b:else/&gt;
+        &lt;title&gt;&lt;data:blog.pageName/&gt;&lt;/title&gt;
+    &lt;/b:if&gt;
+&lt;/b:if&gt;
+&lt;meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/&gt;
+&lt;meta content='blogger' name='generator'/&gt;
+&lt;link expr:href='data:blog.homepageUrl + &amp;quot;favicon.ico&amp;quot;' rel='icon' type='image/x-icon'/&gt;
+&lt;link expr:href='data:blog.url' rel='canonical'/&gt;
+&lt;link expr:href='data:blog.homepageUrl + &amp;quot;feeds/posts/default&amp;quot;' expr:title='data:blog.title + &amp;quot; - Atom&amp;quot;' rel='alternate' type='application/atom+xml'/&gt;
+&lt;link expr:href='data:blog.homepageUrl + &amp;quot;feeds/posts/default?alt=rss&amp;quot;' expr:title='data:blog.title + &amp;quot; - RSS&amp;quot;' rel='alternate' type='application/rss+xml'/&gt;
+&lt;link expr:href='&amp;quot;//www.blogger.com/feeds/&amp;quot; + data:blog.blogId + &amp;quot;/posts/default&amp;quot;' expr:title='data:blog.title + &amp;quot; - Atom&amp;quot;' rel='alternate' type='application/atom+xml'/&gt;
+&lt;link href='//www.blogger.com/openid-server.g' rel='openid.server'/&gt;
+&lt;link expr:href='data:blog.homepageUrl' rel='openid.delegate'/&gt;
+
+&lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt;
+&lt;meta expr:content='data:blog.pageName' property='og:title'/&gt;
+&lt;meta expr:content='data:blog.canonicalUrl' property='og:url'/&gt;
+&lt;meta content='article' property='og:type'/&gt;
+&lt;/b:if&gt;
+&lt;meta expr:content='data:blog.title' property='og:site_name'/&gt;
+&lt;b:if cond='data:blog.url == data:blog.homepageUrl'&gt;
+&lt;meta expr:content='data:blog.metaDescription' name='description'/&gt;
+&lt;meta expr:content='data:blog.title' property='og:title'/&gt;
+&lt;meta content='website' property='og:type'/&gt;
+&lt;b:if cond='data:blog.metaDescription'&gt;
+&lt;meta expr:content='data:blog.metaDescription' property='og:description'/&gt;
+&lt;b:else/&gt;
+&lt;meta expr:content='&amp;quot;Silahkan kunjungi &amp;quot; + data:blog.pageTitle + &amp;quot;Untuk membaca postingan-postingan menarik.&amp;quot;' property='og:description'/&gt;
+&lt;/b:if&gt;
+&lt;/b:if&gt;
+&lt;b:if cond='data:blog.postImageUrl'&gt;
+&lt;meta expr:content='data:blog.postImageUrl' property='og:image'/&gt;
+&lt;b:else/&gt;
+&lt;b:if cond='data:blog.postImageThumbnailUrl'&gt;
+&lt;meta expr:content='data:blog.postThumbnailUrl' property='og:image'/&gt;
+&lt;b:else/&gt;
+&lt;meta content='https://3.bp.blogspot.com/-x_mMtgFf6XE/VlhLxwdLekI/AAAAAAAAj3c/N7fRz1lbMSg/s400/no-thumbnail.jpg' property='og:image'/&gt;
+&lt;/b:if&gt;
+&lt;/b:if&gt;
+&lt;meta content='Dedi Islafuuddin' name='Author'/&gt;
+&lt;meta expr:content='data:blog.title' name='twitter:site'/&gt;
+&lt;meta content='summary_large_image' name='twitter:card'/&gt;
+&lt;meta content='@DediIslafuddin' name='twitter:creator'/&gt;
+
+&lt;link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css' rel='stylesheet'/&gt;
+&lt;link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css' rel='stylesheet'/&gt;
+
+&amp;lt;style type=&amp;quot;text/css&amp;quot;&amp;gt;
+&amp;lt;!-- /*&lt;b:skin&gt;&lt;![CDATA[
+/*
+------------------------
+Blogger Theme
+Name	 : Kompi Safelink Converter Blogger Template
+Version	 : 1.0
+Designer : Kompi Ajaib
+URL		 : www.kompiajaib.com
+Re Design: Dedi Islafuddin
+Blog	 : www.keneono.com
+------------------------
+Built With Bootstrap
+*/
+#header{width:90%;float:left}
+#main-wrapper{width:60%;float:left;}
+#sidebar-right{width:40%;float:right;}
+.sos-profil ul,#cssmenu ul, #cssmenu li,.page-menu ul,.page-menu li{list-style: none;}
+#footer1,#footer2,#footer3{float:left;width:30%;}
+.iklan-bawahheader{display:none}
+*/]]&gt;&lt;/b:skin&gt;
+&lt;style type='text/css'&gt;
+/*&lt;![CDATA[*/
+h2,h3{margin-top:0}
+a:active,a:focus,button.alert.alert-dismissible:active,button.alert.alert-dismissible:focus,button:active,button:focus{outline:0!important}
+#navbar-iframe{height:0;visibility:hidden;display:none}
+#main-wrapper{width:100%;height:auto;margin:0 auto;word-wrap:break-word;}
+#collapsePostBlog{padding-top:55px;padding-bottom:30px}
+html{position:relative;min-height:100%}
+body{margin-bottom:60px;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}
+a:hover{text-decoration:none}
+.navbar-default{background-color:#337ab7!important;border-color:#1f66a3!important}
+.descriptionwrapper{position:fixed;top:-1000px;left:-1000px}
+img{border:0;width:auto;max-width:100%;height:auto}
+.footer{position:absolute;bottom:0;width:100%;height:auto;background-color:#f5f5f5;border-top:1px solid #dedede}
+.post h2.post-title{width:100%;padding:20px 0 10px;margin-bottom:10px;border-bottom:1px solid #dedede;text-align:center}
+.post-body{padding-top:20px}
+body&gt;.container{padding:60px 15px 0}
+.navbar-default .navbar-nav&gt;li&gt;a{color:#fff!important;opacity:.8}
+.navbar-default .navbar-nav&gt;li&gt;a:hover,h1.navbar-brand a:hover,h1.navbar-brand:hover,p.navbar-brand a:hover,p.navbar-brand:hover{opacity:1;background-color:#428bca!important;text-decoration:none}
+.navbar-default .navbar-toggle{border-color:#1f66a3!important;background-color:#428bca;}
+.navbar-default .navbar-toggle .icon-bar{background-color:#fff!important;}
+.navbar-default .navbar-toggle:hover .icon-bar{background-color:#888!important;}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{border-color:#1f66a3!important;}
+h1.navbar-brand,h1.navbar-brand a,p.navbar-brand,p.navbar-brand a{margin-top:0;margin-bottom:0;color:#fff!important}
+h2{font-size:24px;margin-bottom:0}
+h3{font-size:14px}
+.container .text-muted{margin:20px 0}
+.footer&gt;.container{padding:25px 15px}
+code{font-size:80%}
+.close-copy{color:#fff!important;opacity:.8!important}
+.close-copy:hover{opacity:1!important}
+.six-sec-ease-in-out{-webkit-transition:width 14s ease-in-out;-moz-transition:width 14s ease-in-out;-ms-transition:width 14s ease-in-out;-o-transition:width 14s ease-in-out;transition:width 14s ease-in-out}
+#btnInfo{display:none}
+.margin-bottom-20{margin-bottom:20px}
+.margin-top-25{margin-top:25px}
+hr{margin-top:5px;margin-bottom:10px}
+button.alert.alert-dismissible{cursor:default}
+a:active,a:focus{background:0 0!important;text-decoration:none}
+a.btn-default:active,a.btn-default:focus{background-color:#e6e6e6!important;}
+#blog-pager{margin:1em 0;text-align:center;overflow: hidden;}
+#blog-pager-newer-link{font-weight:bold;font-size:16px;float:left}
+#blog-pager-older-link{font-weight:bold;font-size:16px;float:right}
+.home-link{font-size:16px;}
+.feed-links{clear:both;line-height:2.5em}
+
+/* Contact Form */
+#ContactForm1_contact-form-email,#ContactForm1_contact-form-name{width:100%;height:auto;margin:5px auto 15px;padding:10px 10px 10px 30px;color:#777;position:relative;z-index:1;background:#ebebeb;border:1px solid #ccc;border-radius:4px;box-shadow:rgba(0,0,0,.247059) 0 1px 3px inset,#f5f5f5 0 1px 0;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;}
+.contact-form-email,.contact-form-name{position:relative!important}
+.contact-form-email:before,.contact-form-name:before{font-family:FontAwesome;font-style:normal;font-weight:400;text-decoration:inherit;padding-right:.5em;position:absolute;top:-4px;left:10px;z-index:2;color:#777;font-size:16px}
+.contact-form-name:before{content:'\f007'}
+.contact-form-email:before{content:'\f0e0'}
+#ContactForm1_contact-form-email:focus,#ContactForm1_contact-form-name:focus{background:#fffff7;outline:0}
+#ContactForm1_contact-form-email-message{width:100%;height:100px;margin:5px auto;padding:10px 10px 10px 30px;background:url(https://4.bp.blogspot.com/-HcSDTEb_L30/VmLKc3f4juI/AAAAAAAAkDo/d2yC7S79OgM/s1600/pencil.png) 10px 12px no-repeat #ebebeb;color:#777;border:1px solid #ccc;border-radius:4px;box-shadow:rgba(0,0,0,.247059) 0 1px 3px inset,#f5f5f5 0 1px 0;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;font-weight:400}
+#ContactForm1_contact-form-email-message:focus{background:url(https://4.bp.blogspot.com/-HcSDTEb_L30/VmLKc3f4juI/AAAAAAAAkDo/d2yC7S79OgM/s1600/pencil.png) 10px 12px no-repeat #fffff7;outline:0}
+#ContactForm1_contact-form-submit{display:block;height:30px;float:left;color:#FFF;padding:0 20px;margin:10px 0 5px;cursor:pointer;background-color:#56585d;box-shadow:0 4px 0 0 #2d2f34;border:1px solid #434446;border-radius:4px;text-shadow:0 1px 0 #37383b;font-weight:bold;}
+#ContactForm1_contact-form-submit:hover{background-color:#4d4f53}
+#ContactForm1_contact-form-submit:active{position:relative;top:2px;box-shadow:0 2px 0 0 #2d2f34}
+#ContactForm1_contact-form-submit:focus{outline:0}
+#ContactForm1_contact-form-error-message,#ContactForm1_contact-form-success-message{width:100%;margin-top:15px}
+.contact-form-button-submit{background-image:none!important;border-color:none!important}
+
+/* CSS Ad block */
+#unblocker{position:fixed;top:0;left:0;width:100%;height:100%;background-color:#fff;opacity:.98;display:block;z-index:9999;overflow:hidden}
+#unblocker p{color:#000;text-align:center;margin:15% auto;font-size:2rem;max-width:750px;display:table;line-height:1.5;}
+#unblocker p:before{content:'\f023';font-family:fontawesome;background:#ff675c;color:#fff;text-align:center;display:block;padding:0;width:2em;height:2em;line-height:2em;font-size:2.5rem;clear:both;border-radius:100%;margin:0 auto 3%;font-weight:normal;box-shadow:inset 0 0 5px rgba(0,0,0,.1)}
+#unblocker p:hover:before{content:'\f13e'}
+#unblocker p a,#unblocker p i{font-size:20px}
+#unblocker ~ *{display:none}
+
+/* Sitemaps */
+#table-outer{padding:7px 10px;margin:0 auto 20px}
+#table-outer table{width:auto;margin:0 auto}
+#table-outer form{font:inherit}
+#table-outer label{display:block;text-align:right;margin:0 10px 0 0;padding:4px 0 0}
+#table-outer select[disabled]{opacity:.4}
+#post-searcher{display:block;margin:0;padding:0}
+#table-outer input{width:100%;border:1px solid #dedede;border-radius:5px;margin:0;padding:5px;text-transform:capitalize!important;outline:0;color:#333!important;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+#table-outer select{width:100%;border:1px solid #dedede;border-radius:5px;margin:0 0 5px;padding:5px;text-transform:capitalize!important;outline:0;color:#333!important;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+#table-outer select option{min-height:1.4em!important;}
+#table-outer input#feed-q{padding:5px 10px!important;}
+#feed-container{background:#fff;display:block;clear:both;margin:0;padding:0;list-style:none;overflow:hidden;position:relative;border-top:none}
+#feed-container li{list-style:none;margin:0;padding:0;display:inline}
+#feed-container li a{text-decoration:none;color:#2C2C2C;font-weight:bold;font-size:16px}
+#feed-container li a:hover{text-decoration:none;color:#E94141}
+#feed-container li img{margin:0 15px 5px 0;padding:;width:100%!important;height:140px!important;display:block;}
+#feed-nav{margin:10px 0 30px;text-align:center;font-weight:500;width:100%}
+#feed-nav a,#feed-nav span{color:#fff;text-decoration:none;display:block;opacity:.8}
+#feed-nav a:hover,#feed-nav span:hover{opacity:1}
+#feed-nav span{cursor:wait}
+
+/* Pace Theme Flash */
+.pace,.pace .pace-activity{position:fixed;z-index:2000;top:0;right:0}
+.pace{-webkit-pointer-events:none;pointer-events:none;-webkit-user-select:none;-moz-user-select:none;user-select:none;-webkit-perspective:12rem;-moz-perspective:12rem;-ms-perspective:12rem;-o-perspective:12rem;perspective:12rem;height:6rem;width:6rem;margin:auto;left:0;bottom:0}
+.pace .pace-activity{display:block;width:50px;height:50px;border:3px solid transparent;border-top-color:#337ab7;border-left-color:#337ab7;border-radius:100%;-webkit-animation:pace-spinner .4s linear infinite;-moz-animation:pace-spinner .4s linear infinite;-ms-animation:pace-spinner .4s linear infinite;-o-animation:pace-spinner .4s linear infinite;animation:pace-spinner .4s linear infinite}
+.pace.pace-inactive .pace-activity{display:none}
+@-webkit-keyframes pace-spinner{0%{-webkit-transform:rotate(0);transform:rotate(0)}
+100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}
+}
+@-moz-keyframes pace-spinner{0%{-moz-transform:rotate(0);transform:rotate(0)}
+100%{-moz-transform:rotate(360deg);transform:rotate(360deg)}
+}
+@-o-keyframes pace-spinner{0%{-o-transform:rotate(0);transform:rotate(0)}
+100%{-o-transform:rotate(360deg);transform:rotate(360deg)}
+}
+@-ms-keyframes pace-spinner{0%{-ms-transform:rotate(0);transform:rotate(0)}
+100%{-ms-transform:rotate(360deg);transform:rotate(360deg)}
+}
+@keyframes pace-spinner{0%{transform:rotate(0)}
+100%{transform:rotate(360deg)}
+}
+
+@media (max-width:600px){#table-outer table{margin:0 auto;width:100%}
+#feed-container,#table-outer{margin:0 auto}
+#feed-container li .inner{margin:5px auto;height:auto;}
+#feedContainer li{float:none;display:block;width:auto;height:auto}
+#feed-container li .news-text, #feedContainer:after,#feed-container li img{display:none!important}
+#header{width:80%;}
+}
+
+@media screen and (max-width:880px){body{margin-bottom:120px;}.footer&gt;.container .col-md-8{float:left;text-align:left!important;margin-top:10px;}
+}
+
+/*]]&gt;*/
+&lt;/style&gt;
+
+&lt;b:if cond='data:blog.pageType != &amp;quot;static_page&amp;quot; and data:blog.pageType != &amp;quot;item&amp;quot;'&gt;
+&lt;style type='text/css'&gt;
+/*&lt;![CDATA[*/
+#main-wrapper{}
+.intro-header,.site-wrapper{display:table;width:100%;height:100vh}
+.intro-header{text-align:center;color:#f8f8f8;background:url(https://3.bp.blogspot.com/-4kF-8jc75nU/VyhrEeae4wI/AAAAAAAAmZs/uw9t7ZumglA_RktNM7AhjOzMKHyHpQIqwCLcB/s1600/intro-bg%2Bcopy.jpg) center center no-repeat;background-size:cover}
+#converter{height:100vh;background-color:#f8f8f8;border:1px solid #dedede;border-left:0;border-right:0;padding-top:60px}
+.site-wrapper-inner{display:table-cell;vertical-align:top}
+.cover-container{margin-right:auto;margin-left:auto}
+.cover-heading{margin:0;color:#fff;font-size:3em;font-weight:900;text-shadow:0 1px 0 #c7c8ca,0 2px 0 #b1b3b6,0 3px 0 #9d9fa2,0 4px 0 #8a8c8e,0 5px 0 #77787b,0 6px 0 #636466,0 7px 0 #4d4d4f,0 8px 7px #001135}
+p.desc{text-shadow:0 1px 1px #fff,0 -1px 1px #000}
+.intro-divider{width:500px;border-top:1px solid #f8f8f8;border-bottom:1px solid rgba(0,0,0,.2)}
+.inner{padding:30px}
+.cover{padding:0 20px}
+.cover .btn-lg{padding:10px 20px;font-weight:700}
+@media screen and (max-width:1024px){#converter,.intro-header,.site-wrapper{height:100%}
+.site-wrapper{padding:150px 0 100px}
+}
+@media screen and (max-width:603px){.cover-heading{font-size:2em}
+.intro-divider{width:90%}
+}
+@media (min-width:768px){.site-wrapper-inner{vertical-align:middle}
+.cover-container{width:100%}
+}
+@media (min-width:992px){.cover-container{width:700px}
+}
+.post-body{padding-top:0}
+.post h2.post-title{width:100%;padding:0;margin-bottom:0;font-size:18px;text-align:left;border-bottom:0}
+.posts-thumb{position:relative;margin-right:10px;padding-top:4px;float:left;overflow:hidden}
+/*]]&gt;*/
+&lt;/style&gt;
+&lt;/b:if&gt;
+
+&lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt;
+&lt;style type='text/css'&gt;
+.post-body .separator img{width:100%!important;height:auto}
+.panel{margin-bottom:20px;background-color:#fff;border:0;border-radius:0;-webkit-box-shadow:0;box-shadow:0}
+.panel-body{padding:20px 0 0}
+.breadcrumb{margin:20px 0 5px;}
+&lt;/style&gt;
+&lt;/b:if&gt;
+
+  &lt;b:if cond='data:blog.url == &amp;quot;https://convert-safelink.blogspot.com&amp;quot;'&gt;
+&lt;style type='text/css'&gt;
+.postmeta,h2.post-title{position:fixed;top:-1000px;left:-1000px}
+.post-body{padding-top:10px}
+&lt;/style&gt;
+&lt;/b:if&gt;
+
+&lt;script type='text/javascript'&gt;
+//&lt;![CDATA[
+var blog = document.location.hostname;
+var slug = document.location.pathname;
+var ctld = blog.substr(blog.lastIndexOf("."));
+if (ctld != ".com") {
+var ncr = "https://" + blog.substr(0, blog.indexOf("."));
+ncr += ".blogspot.com/ncr" + slug;
+window.location.replace(ncr); };
+
+var currentURL=location.href;
+var str = currentURL;
+  var res = str.replace("https://convert-safelink.blogspot.com?url=", "");
+$(".Visit_Link").hide();
+function changeLink(){
+    var decodedString = Base64.decode(res);
+    window.open(decodedString,'_self')
+}
+
+function generate() {
+    var linkDL = document.getElementById("download"),
+        linkAL = document.getElementById("download2"),
+        btn = document.getElementById("btn"),
+        notif = document.getElementById("daplong"),
+        direklink = document.getElementById("download").href,
+        waktu = 5;
+    var teks_waktu = document.createElement("span");
+    linkDL.parentNode.replaceChild(teks_waktu, linkDL);
+    var id;
+    id = setInterval(function () {
+        waktu--;
+        if (waktu &lt; 0) {
+            teks_waktu.parentNode.replaceChild(linkDL, teks_waktu);
+            clearInterval(id);
+            notif.style.display = "none";
+            linkDL.style.display = "inline";
+            linkAL.style.display = "inline";
+        } else {
+            teks_waktu.innerHTML = "&lt;h3 class='text-danger'&gt;Link will appear in " + waktu.toString() + " Second&lt;/h3&gt;";
+            btn.style.display = "none";
+        }
+    }, 2000);
+}
+
+cookieOptions = {
+    msg: "This site uses cookies to help deliver services. By using this site, you agree to the use of cookies.",
+    link: "https://www.blogger.com/go/blogspot-cookies",
+    close: "Got it!",
+    learn: "Learn More" };
+//]]&gt;
+&lt;/script&gt;
+
+&lt;script type='text/javascript'&gt;
+
+var uri = window.location.toString();
+if (uri.indexOf(&amp;quot;%3D&amp;quot;,&amp;quot;%3D&amp;quot;) &amp;gt; 0) {
+  var clean_uri = uri.substring(0, uri.indexOf(&amp;quot;%3D&amp;quot;));
+    window.history.replaceState({}, document.title, clean_uri);
+}
+var uri = window.location.toString();
+if (uri.indexOf(&amp;quot;%3D%3D&amp;quot;,&amp;quot;%3D%3D&amp;quot;) &amp;gt; 0) {
+  var clean_uri = uri.substring(0, uri.indexOf(&amp;quot;%3D%3D&amp;quot;));
+    window.history.replaceState({}, document.title, clean_uri);
+}
+var uri = window.location.toString();
+if (uri.indexOf(&amp;quot;&amp;amp;m=1&amp;quot;,&amp;quot;&amp;amp;m=1&amp;quot;) &amp;gt; 0) {
+  var clean_uri = uri.substring(0, uri.indexOf(&amp;quot;&amp;amp;m=1&amp;quot;));
+    window.history.replaceState({}, document.title, clean_uri);
+}
+var uri = window.location.toString();
+if (uri.indexOf(&amp;quot;?m=1&amp;quot;,&amp;quot;?m=1&amp;quot;) &amp;gt; 0) {
+  var clean_uri = uri.substring(0, uri.indexOf(&amp;quot;?m=1&amp;quot;));
+    window.history.replaceState({}, document.title, clean_uri);
+}
+
+&lt;/script&gt;
+
+ &lt;!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries --&gt;
+    &lt;!--[if lt IE 9]&gt;
+      &lt;script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"&gt;&lt;/script&gt;
+      &lt;script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"&gt;&lt;/script&gt;
+    &lt;![endif]--&gt;
+&amp;lt;/head&amp;gt;&amp;lt;!--&lt;head/&gt;--&amp;gt;
+&lt;body onload='generate()'&gt;
+&lt;b:if cond='data:blog.pageType == &amp;quot;error_page&amp;quot;'&gt;
+&lt;style scoped='scoped' type='text/css'&gt;
+#error-page{background:#efefef;position:fixed !important;position:absolute;text-align:center;top:0;right:0;bottom:0;left:0;z-index:99999;width:100%}
+#error-page .error-404 {text-align: center; transition: all 0.8s ease 0s;color: #b0130d; font-size:800%; font-weight: 600;margin-bottom:0px;margin-top:0;line-height:1em} 
+#error-page .large-heading1 {color: #000;font-size:400%;margin-top:1%;margin-bottom:0px;position:relative;font-weight:600}
+#error-page .large-heading2 {color: #000;font-size:250%;} 
+#error-page .light-heading1 {color: #000;font-size:150%;} 
+#error-page .light-heading2 {color: #000;font-size:100%;line-height:1.8em;} 
+#error-page #search{text-align:center!important}
+#search input{padding:6px 10px;margin:15px 0 0 -1px}
+&lt;/style&gt;
+&lt;div id='error-page'&gt; 
+&lt;div class='large-heading1'&gt;OOPS!&lt;/div&gt;
+&lt;div class='error-404'&gt;404&lt;/div&gt; 
+&lt;div class='large-heading2'&gt;LAMAN TIDAK DITEMUKAN&lt;/div&gt;&lt;br/&gt; 
+&lt;div class='light-heading1'&gt;Mungkin halaman telah dihapus. Kami mohon maaf atas ketidaknyamanan ini.&lt;/div&gt;&lt;br/&gt;
+  &lt;div class='light-heading2'&gt;Silahkan Klik &lt;a expr:href='data:blog.homepageUrl' title='Homepage'&gt;&lt;span style='background:#ddd;border:1px solid #aaa;border-radius:3px;padding:2px 5px'&gt;&lt;b&gt;DI SINI&lt;/b&gt;&lt;/span&gt;&lt;/a&gt; untuk kembali ke homepage &lt;b&gt;&lt;data:blog.title/&gt;&lt;/b&gt;.&lt;br/&gt;
+Atau gunakan &lt;b&gt;Search Box&lt;/b&gt; di bawah ini untuk kembali mencari artikel yang Anda inginkan.
+&lt;/div&gt;
+&lt;div class='searchform' id='searchform'&gt;
+&lt;div id='search'&gt;
+&lt;script type='text/javascript'&gt;
+  var GOOG_FIXURL_LANG = &amp;quot;en&amp;quot;;
+  var GOOG_FIXURL_SITE = &amp;quot;&lt;data:blog.homepageUrl/&gt;&amp;quot;
+&lt;/script&gt;
+&lt;script src='//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js' type='text/javascript'&gt;
+&lt;/script&gt;
+&lt;div class='clearfix'/&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/b:if&gt;
+&lt;b:if cond='data:blog.pageType != &amp;quot;error_page&amp;quot;'&gt;
+&lt;div class='blog-overlay'&gt;
+    &lt;!-- Fixed navbar --&gt;
+    &lt;nav class='navbar navbar-default navbar-fixed-top'&gt;
+      &lt;div class='container'&gt;
+        &lt;div class='navbar-header'&gt;
+          &lt;button aria-controls='navbar' aria-expanded='false' class='navbar-toggle collapsed' data-target='#navbar' data-toggle='collapse' type='button'&gt;
+            &lt;span class='sr-only'&gt;Toggle navigation&lt;/span&gt;
+            &lt;span class='icon-bar'/&gt;
+            &lt;span class='icon-bar'/&gt;
+            &lt;span class='icon-bar'/&gt;
+          &lt;/button&gt;
+&lt;header itemscope='itemscope' itemtype='https://schema.org/WPHeader'&gt;
+      &lt;b:section class='header' id='header' maxwidgets='1' showaddelement='no'&gt;
+        &lt;b:widget id='Header1' locked='true' title='Safelink Random Post (Header)' type='Header' version='1'&gt;
+          &lt;b:widget-settings&gt;
+            &lt;b:widget-setting name='displayUrl'/&gt;
+            &lt;b:widget-setting name='displayHeight'&gt;0&lt;/b:widget-setting&gt;
+            &lt;b:widget-setting name='sectionWidth'&gt;-1&lt;/b:widget-setting&gt;
+            &lt;b:widget-setting name='useImage'&gt;false&lt;/b:widget-setting&gt;
+            &lt;b:widget-setting name='shrinkToFit'&gt;false&lt;/b:widget-setting&gt;
+            &lt;b:widget-setting name='imagePlacement'&gt;BEHIND&lt;/b:widget-setting&gt;
+            &lt;b:widget-setting name='displayWidth'&gt;0&lt;/b:widget-setting&gt;
+          &lt;/b:widget-settings&gt;
+          &lt;b:includable id='main'&gt;
+    &lt;div id='header-inner'&gt;
+      &lt;div class='titlewrapper'&gt;
+        &lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot;'&gt;
+        &lt;h1 class='title navbar-brand' itemprop='headline'&gt;
+&lt;b:include name='title'/&gt;
+        &lt;/h1&gt;
+&lt;b:else/&gt;
+        &lt;p class='title navbar-brand' itemprop='headline'&gt;
+          &lt;b:include name='title'/&gt;
+        &lt;/p&gt;
+&lt;/b:if&gt;
+      &lt;/div&gt;&lt;b:include name='description'/&gt;
+    &lt;/div&gt;
+&lt;/b:includable&gt;
+          &lt;b:includable id='description'&gt;
+  &lt;div class='descriptionwrapper'&gt;
+    &lt;p class='description' itemprop='description'&gt;&lt;span&gt;&lt;data:description/&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+          &lt;b:includable id='title'&gt;
+      &lt;a expr:href='data:blog.homepageUrl' expr:title='data:title' itemprop='url'&gt;&lt;span itemprop='name'&gt;Safelink&lt;/span&gt;&lt;/a&gt;
+&lt;/b:includable&gt;
+        &lt;/b:widget&gt;
+      &lt;/b:section&gt;
+      &lt;/header&gt;
+        &lt;/div&gt;
+        &lt;div class='collapse navbar-collapse' id='navbar'&gt;
+          &lt;ul class='nav navbar-nav'&gt;
+            &lt;li&gt;&lt;a href='https://convert-safelink.blogspot.com/p/about.html' title='About'&gt;About&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href='https://convert-safelink.blogspot.com/p/contact.html' title='Contact'&gt;Contact&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href='https://convert-safelink.blogspot.com/p/privacy.html' title='Privacy'&gt;Privacy&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href='https://convert-safelink.blogspot.com/p/disclaimer.html' title='Disclaimer'&gt;Disclaimer&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href='https://convert-safelink.blogspot.com/p/sitemap.html' title='Sitemaps'&gt;Sitemaps&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+          &lt;ul class='nav navbar-nav navbar-right'&gt;
+            &lt;b:if cond='data:blog.url == &amp;quot;https://convert-safelink.blogspot.com&amp;quot;'&gt;
+            &lt;li&gt;&lt;a data-target='.how-to-use' data-toggle='modal' href='javascript:void(0)' title='How To Use'&gt;How To Use&lt;/a&gt;&lt;/li&gt;
+            &lt;/b:if&gt;
+            &lt;li&gt;&lt;a data-target='.how-to-get' data-toggle='modal' href='javascript:void(0)' title='How To Get'&gt;How To Get&lt;/a&gt;&lt;/li&gt;
+            &lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot; and data:blog.pageType != &amp;quot;static_page&amp;quot;'&gt;
+            &lt;li&gt;&lt;a href='https://keneono.blogspot.com' role='button' title='Blog'&gt;Blog&lt;/a&gt;&lt;/li&gt;
+            &lt;/b:if&gt;
+          &lt;/ul&gt;
+        &lt;/div&gt;&lt;!--/.nav-collapse --&gt;
+      &lt;/div&gt;
+    &lt;/nav&gt;
+
+&lt;div aria-labelledby='mySmallModalLabel' class='modal fade contact' role='dialog' tabindex='-1'&gt;
+  &lt;div class='modal-dialog modal-sm'&gt;
+    &lt;div class='modal-content'&gt;
+      &lt;div class='modal-header'&gt; &lt;button aria-label='Close' class='close' data-dismiss='modal' type='button'&gt;&lt;span aria-hidden='true'&gt;&amp;#215;&lt;/span&gt;&lt;/button&gt; &lt;h4 class='modal-title' id='mySmallModalLabel'&gt;Contact Us&lt;/h4&gt; &lt;/div&gt;
+      &lt;div class='modal-body text-left'&gt;
+        &lt;div class='form-group'&gt;
+&lt;form name='contact-form'&gt;
+&lt;span class='contact-form-name'&gt;
+&lt;input id='ContactForm1_contact-form-name' name='name' placeholder='Name' size='30' type='text' value=''/&gt;&lt;/span&gt;&lt;br/&gt;
+&lt;span class='contact-form-email'&gt;
+&lt;input id='ContactForm1_contact-form-email' name='email' placeholder='Email' size='30' type='text' value=''/&gt;&lt;/span&gt;&lt;br/&gt;
+&lt;textarea cols='25' id='ContactForm1_contact-form-email-message' name='email-message' placeholder='Message' rows='5'/&gt;&lt;br/&gt;
+&lt;input id='ContactForm1_contact-form-submit' type='button' value='Kirim'/&gt;&lt;br/&gt;
+&lt;div class='clearfix'/&gt;
+&lt;div style='max-width: 100%; text-align: left; width: 100%;'&gt;
+&lt;div id='ContactForm1_contact-form-error-message'&gt;
+&lt;/div&gt;
+&lt;div id='ContactForm1_contact-form-success-message'&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/form&gt;
+          &lt;div class='clearfix'/&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby='myLargeModalLabel' class='modal fade how-to-use' role='dialog' tabindex='-1'&gt;
+  &lt;div class='modal-dialog modal-lg'&gt;
+    &lt;div class='modal-content'&gt;
+      &lt;div class='modal-header'&gt; &lt;button aria-label='Close' class='close' data-dismiss='modal' type='button'&gt;&lt;span aria-hidden='true'&gt;&amp;#215;&lt;/span&gt;&lt;/button&gt; &lt;h4 class='modal-title' id='myLargeModalLabel'&gt;How To Use This Safe Link Converter On Your Blog&lt;/h4&gt; &lt;/div&gt;
+      &lt;div class='modal-body text-left'&gt;
+        &lt;p&gt;Click on the code and &lt;kbd&gt;&lt;kbd&gt;CTRL&lt;/kbd&gt; + &lt;kbd&gt;C&lt;/kbd&gt;&lt;/kbd&gt; on your keyboard. Put this code before the &lt;mark&gt;&amp;amp;lt;/body&amp;amp;gt;&lt;/mark&gt;, &lt;/p&gt;
+        &lt;div class='form-group'&gt;
+&lt;textarea class='form-control' id='textArea' onclick='this.focus();this.select()' readonly='readonly' rows='11'&gt;
+&lt;script type='text/javascript'&gt;
+//&lt;![CDATA[
+protected_links = "www.safelink.ga,blogspot.com,youtube.com,facebook.com,google.com,twitter.com"; 
+  (function() {
+    var sl = document.createElement('script');
+    sl.type = 'text/javascript'; sl.async = true;
+    sl.src = 'https://cdn.rawgit.com/dedi96/safelink/e7d18d8c/script%20js%20pemanggil.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(sl);
+  })();
+//]]&gt;
+&lt;/script&gt;&lt;/textarea&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div aria-labelledby='mySmallModalLabel3' class='modal fade how-to-get' role='dialog' tabindex='-1'&gt;
+  &lt;div class='modal-dialog modal-sm'&gt;
+    &lt;div class='modal-content'&gt;
+      &lt;div class='modal-header'&gt; &lt;button aria-label='Close' class='close' data-dismiss='modal' type='button'&gt;&lt;span aria-hidden='true'&gt;&amp;#215;&lt;/span&gt;&lt;/button&gt; &lt;h4 class='modal-title' id='mySmallModalLabel3'&gt;&lt;strong&gt;How to get this Safelink Converter Blogger Theme&lt;/strong&gt;.&lt;/h4&gt; &lt;/div&gt;
+      &lt;div class='modal-body text-left'&gt;
+        &lt;p&gt;Now you can get this theme. Please, visit this post &lt;a href='http://www.kompiajaib.com/2016/05/kompi-safelink-converter-responsive.html' target='_blank' title='Kompi Safelink Converter Responsive Blogger Template With Bootstrap'&gt;&lt;strong&gt;Kompi Safelink Converter Responsive Blogger Template With Bootstrap&lt;/strong&gt;.&lt;/a&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot; and data:blog.pageType != &amp;quot;static_page&amp;quot;'&gt;
+
+&lt;div id='converter'&gt;
+&lt;div class='container'&gt;
+
+  &lt;div class='text-center margin-bottom-20'&gt;
+&lt;h3&gt;Advertise&lt;/h3&gt;
+KODE IKLAN DISINI
+  &lt;/div&gt;
+
+&lt;div class='row'&gt;
+&lt;div class='container'&gt;
+  &lt;div class='col-md-8 col-md-offset-2'&gt;
+      &lt;div class='btn btn-info margin-bottom-20' id='btnInfo'&gt;
+        &lt;button class='close close-copy' onclick='document.getElementById(&amp;quot;btnInfo&amp;quot;).style.display = &amp;quot;none&amp;quot;' type='button'&gt;&lt;span aria-hidden='true'&gt;&amp;#215;&lt;/span&gt;&lt;/button&gt;
+        &lt;h4&gt;Link has been &lt;strong&gt;copied to clipboard!&lt;/strong&gt;&lt;/h4&gt;
+      &lt;/div&gt;
+    &lt;div class='panel panel-primary'&gt;
+      &lt;div class='panel-heading'&gt;&lt;div class='panel-title text-center'&gt;&lt;h2&gt;&lt;i class='fa fa-shield'/&gt; &lt;strong&gt;Safe Link Converter&lt;/strong&gt;&lt;/h2&gt;&lt;/div&gt;&lt;/div&gt;
+      &lt;div class='panel-body'&gt;
+        &lt;div class='form-group'&gt;
+          &lt;div class='input-group'&gt;
+            &lt;span class='input-group-addon'&gt;&lt;i class='fa fa-link'/&gt;&lt;/span&gt;
+            &lt;input class='form-control' id='inputURL' placeholder='http://' required='required' type='url'/&gt;
+            &lt;span class='input-group-btn'&gt;
+&lt;button class='btn btn-primary' data-target='#safeLINK' data-toggle='collapse' type='button'&gt;&lt;i class='fa fa-shield'/&gt; &lt;strong&gt;Safe Link Now!&lt;/strong&gt;&lt;/button&gt;
+&lt;/span&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;script src='https://cdn.rawgit.com/dedi96/safelink/e7d18d8c/script%20js%20pemanggil.js' type='text/javascript'/&gt;
+        &lt;div class='collapse' id='safeLINK'&gt;
+          &lt;div class='form-group has-success'&gt;
+            &lt;div class='input-group'&gt;
+              &lt;span class='input-group-addon'&gt;&lt;strong&gt;Result:&lt;/strong&gt; &lt;i aria-hidden='true' class='fa fa-check'/&gt;&lt;/span&gt;
+            &lt;input class='form-control' id='resultLink' onclick='this.focus();this.select()' readonly='readonly' required='required' type='text'/&gt;&lt;/div&gt;
+            &lt;br/&gt;
+            &lt;button class='alert alert-dismissible alert-success btn-lg btn-block text-center'&gt;&lt;i aria-hidden='true' class='fa fa-thumbs-o-up'/&gt; &lt;strong&gt;Well done!&lt;/strong&gt; you have successfully encrypted your link.&lt;/button&gt;
+            &lt;div class='text-center'&gt;
+            &lt;button class='btn btn-sm btn-success' data-clipboard-target='resultLink' data-target='#safeLINK' data-toggle='collapse' id='btnCopy' type='submit'&gt;&lt;i aria-hidden='true' class='fa fa-files-o'/&gt; &lt;strong&gt;Copy your link to clipboard!&lt;/strong&gt;&lt;/button&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src='//cdn.jsdelivr.net/zeroclipboard/2.2.0/ZeroClipboard.js' type='text/javascript'/&gt;
+&lt;script type='text/javascript'&gt;
+//&lt;![CDATA[
+  ZeroClipboard.config({
+    swfPath: "//cdn.jsdelivr.net/zeroclipboard/2.2.0/ZeroClipboard.swf"
+  });
+  var client = new ZeroClipboard(document.getElementById('btnCopy'));
+  client.on('ready', function(event) {
+    document.getElementById('btnCopy').style.display = 'inline-block';
+
+    client.on('copy', function(event) {
+      event.clipboardData.setData('text/plain', event.target.value);
+    });
+
+    client.on('aftercopy', function(event) {
+      document.getElementById('btnInfo').style.display = 'block';
+      document.getElementById('inputURL').value = '';
+      document.getElementById('resultLink').value = '';
+    });
+  });
+
+  client.on('error', function(event) {
+    ZeroClipboard.destroy();
+  });
+  var output = document.getElementById('resultLink'),
+    input = document.getElementById('inputURL');
+  input.onkeyup = function() {
+    if (input.value != "") {
+var x=Math.floor((Math.random()*5)+ 1);
+var xxx=null;
+if(x=="1"){xxx="/2017/08/car-production-fall-hits-uk-industrial.html"}
+if(x=="2"){xxx="/2017/08/tesla-car-battery-production-releases.html"}
+if(x=="3"){xxx="/2017/08/green-lunacy-fossil-fuel-mandates-to.html"}
+if(x=="4"){xxx="/2017/08/us-climate-report-edits-out-highly_28.html"}
+if(x=="5"){xxx="/2017/08/arctic-melt-season-changes-and-arctic.html"}
+      output.value = "https://convert-safelink.blogspot.com"+xxx+"?url=" + Base64.encode(this.value); //change with your link
+    } else {
+      output.value = "";
+    }
+  }
+//]]&gt;
+&lt;/script&gt;
+&lt;div class='clearfix'/&gt;
+&lt;div class='margin-bottom-20'&gt;
+  &lt;div class='col-md-4 text-center'&gt;
+&lt;h3&gt;Advertise&lt;/h3&gt;
+KODE IKLAN DISINI
+&lt;/div&gt;
+&lt;div class='col-md-4 margin-top-25'&gt;
+&lt;div class='panel panel-info'&gt;
+  &lt;div class='panel-heading'&gt;&lt;h2 class='panel-title'&gt;&lt;i aria-hidden='true' class='fa fa-question-circle-o'/&gt; &lt;strong&gt;How to use our tool:&lt;/strong&gt;&lt;/h2&gt;&lt;/div&gt;
+  &lt;div class='panel-body'&gt;
+&lt;ol&gt;
+&lt;li&gt;Put the link on the &lt;strong&gt;Safe Link Converter&lt;/strong&gt; box with &lt;strong&gt;http://&lt;/strong&gt; or &lt;strong&gt;https://&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Use &lt;kbd&gt;&lt;kbd&gt;CTRL&lt;/kbd&gt; + &lt;kbd&gt;V&lt;/kbd&gt;&lt;/kbd&gt; on keyboard to put the link.&lt;/li&gt;
+&lt;li&gt;Click the &lt;strong&gt;Safe Link Now!&lt;/strong&gt; button to get encrypted link.&lt;/li&gt;
+&lt;li&gt;Click the &lt;strong&gt;Copy your link to clipboard!&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Done.&lt;/li&gt;
+&lt;/ol&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+ &lt;div class='col-md-4 text-center'&gt;
+&lt;h3&gt;Advertise&lt;/h3&gt;
+KODE IKLAN DISINI
+&lt;/div&gt;
+&lt;div class='clearfix'/&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt; 
+  &lt;/div&gt; 
+&lt;div class='clearfix'/&gt;
+&lt;/b:if&gt;
+&lt;div class='container' id='collapsePostBlog'&gt;
+&lt;div class='row'&gt;
+&lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot; and data:blog.pageType != &amp;quot;static_page&amp;quot;'&gt;
+&lt;div class='container'&gt;
+  &lt;div class='alert alert-info btn-lg btn-block text-center'&gt;&lt;h2&gt;&lt;strong&gt;Blog Posts&lt;/strong&gt;&lt;/h2&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:if&gt;
+&lt;div itemscope='itemscope' itemtype='https://schema.org/Blog'&gt;
+     &lt;div id='main-wrapper'&gt;
+        &lt;b:section class='main' id='main' showaddelement='no'&gt;
+          &lt;b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='1'&gt;
+            &lt;b:widget-settings&gt;
+              &lt;b:widget-setting name='showDateHeader'&gt;true&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='style.textcolor'&gt;#000000&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showShareButtons'&gt;true&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='authorLabel'&gt;By&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showCommentLink'&gt;true&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='style.urlcolor'&gt;#008000&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showAuthor'&gt;false&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='style.linkcolor'&gt;#0000ff&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='style.unittype'&gt;TextAndImage&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='style.bgcolor'&gt;#ffffff&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showAuthorProfile'&gt;false&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='style.layout'&gt;1x1&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showLabels'&gt;true&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showLocation'&gt;true&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showTimestamp'&gt;true&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='postsPerAd'&gt;3&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showBacklinks'&gt;false&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='style.bordercolor'&gt;#ffffff&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showInlineAds'&gt;true&lt;/b:widget-setting&gt;
+              &lt;b:widget-setting name='showReactions'&gt;false&lt;/b:widget-setting&gt;
+            &lt;/b:widget-settings&gt;
+            &lt;b:includable id='main' var='top'&gt; 
+&lt;b:include data='posts' name='breadcrumb'/&gt;       
+  &lt;b:if cond='data:mobileindex'&gt;
+    &lt;!-- mobile index --&gt;
+    &lt;div class='blog-posts hfeed'&gt;
+      &lt;b:loop values='data:posts' var='post'&gt;
+        &lt;b:if cond='data:post.isFirstPost == &amp;quot;false&amp;quot;'&gt;
+          &amp;lt;/div&amp;gt;
+        &lt;/b:if&gt;
+        &amp;lt;div class=&amp;quot;mobile-date-outer date-outer&amp;quot;&amp;gt;
+        &lt;div expr:onclick='data:post.indexOnclick'&gt;
+          &lt;b:include data='post' name='mobile-index-post'/&gt;
+        &lt;/div&gt;
+        &lt;b:if cond='data:post.trackLatency'&gt;
+          &lt;data:post.latencyJs/&gt;
+        &lt;/b:if&gt;
+      &lt;/b:loop&gt;
+      &lt;b:if cond='data:numPosts != 0'&gt;
+        &amp;lt;/div&amp;gt;
+      &lt;/b:if&gt;
+    &lt;/div&gt;
+  &lt;b:else/&gt;
+
+    &lt;!-- posts --&gt;
+    &lt;div class='blog-posts hfeed'&gt;
+
+      &lt;b:include data='top' name='status-message'/&gt;
+
+      &lt;data:defaultAdStart/&gt;
+      &lt;b:loop values='data:posts' var='post'&gt;
+        &lt;b:if cond='data:post.isDateStart'&gt;
+          &lt;b:if cond='data:post.isFirstPost == &amp;quot;false&amp;quot;'&gt;
+            &amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;
+          &lt;/b:if&gt;
+        &lt;/b:if&gt;
+        &lt;b:if cond='data:post.isDateStart'&gt;
+          &amp;lt;div class=&amp;quot;date-outer&amp;quot;&amp;gt;
+        &lt;/b:if&gt;
+
+        &lt;b:if cond='data:post.isDateStart'&gt;
+          &amp;lt;div class=&amp;quot;date-posts&amp;quot;&amp;gt;
+        &lt;/b:if&gt;
+        &lt;div class='post-outer'&gt;
+        &lt;b:include data='post' name='post'/&gt;
+        &lt;b:include cond='data:blog.pageType in {&amp;quot;static_page&amp;quot;,&amp;quot;item&amp;quot;}' data='post' name='comments'/&gt;
+        &lt;/div&gt;
+        &lt;b:if cond='data:post.includeAd'&gt;
+          &lt;b:if cond='data:post.isFirstPost'&gt;
+            &lt;data:defaultAdEnd/&gt;
+          &lt;b:else/&gt;
+            &lt;data:adEnd/&gt;
+          &lt;/b:if&gt;
+          &lt;b:if cond='data:mobile == &amp;quot;false&amp;quot;'&gt;
+            &lt;div class='inline-ad'&gt;
+              &lt;data:adCode/&gt;
+            &lt;/div&gt;
+          &lt;/b:if&gt;
+          &lt;data:adStart/&gt;
+        &lt;/b:if&gt;
+        &lt;b:if cond='data:post.trackLatency'&gt;
+          &lt;data:post.latencyJs/&gt;
+        &lt;/b:if&gt;
+      &lt;/b:loop&gt;
+      &lt;b:if cond='data:numPosts != 0'&gt;
+        &amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;
+      &lt;/b:if&gt;
+      &lt;data:adEnd/&gt;
+    &lt;/div&gt;
+  &lt;/b:if&gt;
+ &lt;div class='clearfix'/&gt;
+
+  &lt;!-- navigation --&gt;
+  &lt;b:if cond='data:mobile'&gt;
+    &lt;b:include name='mobile-nextprev'/&gt;
+  &lt;b:else/&gt;
+    &lt;b:include name='nextprev'/&gt;
+
+    &lt;!-- feed links --&gt;
+    &lt;b:include name='feedLinks'/&gt;
+  &lt;/b:if&gt;
+
+  &lt;b:if cond='data:top.showStars'&gt;
+    &lt;script src='//www.google.com/jsapi' type='text/javascript'/&gt;
+    &lt;script type='text/javascript'&gt;
+      google.load(&amp;quot;annotations&amp;quot;, &amp;quot;1&amp;quot;, {&amp;quot;locale&amp;quot;: &amp;quot;&lt;data:top.languageCode/&gt;&amp;quot;});
+      function initialize() {
+        google.annotations.setApplicationId(&lt;data:top.blogspotReviews/&gt;);
+        google.annotations.createAll();
+        google.annotations.fetch();
+      }
+      google.setOnLoadCallback(initialize);
+    &lt;/script&gt;
+  &lt;/b:if&gt;
+  &lt;b:if cond='data:top.showDummy'&gt;
+    &lt;data:top.dummyBootstrap/&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='backlinkDeleteIcon' var='backlink'&gt;
+  &lt;span expr:class='&amp;quot;item-control &amp;quot; + data:backlink.adminClass'&gt;
+    &lt;a expr:href='data:backlink.deleteUrl' expr:title='data:top.deleteBacklinkMsg'&gt;
+      &lt;img alt='delete icon' expr:title='data:top.deleteBacklinkMsg' height='13' src='//www.blogger.com/img/icon_delete13.gif' width='13'/&gt;
+    &lt;/a&gt;
+  &lt;/span&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='backlinks' var='post'&gt;
+  &lt;a name='links'/&gt;&lt;h4&gt;&lt;data:post.backlinksLabel/&gt;&lt;/h4&gt;
+  &lt;b:if cond='data:post.numBacklinks != 0'&gt;
+    &lt;dl class='comments-block' id='comments-block'&gt;
+      &lt;b:loop values='data:post.backlinks' var='backlink'&gt;
+        &lt;div class='collapsed-backlink backlink-control'&gt;
+          &lt;dt class='comment-title'&gt;
+            &lt;span class='backlink-toggle-zippy'&gt;&amp;#160;&lt;/span&gt;
+            &lt;a expr:href='data:backlink.url' expr:title='data:backlink.title' rel='nofollow'&gt;&lt;data:backlink.title/&gt;&lt;/a&gt;
+            &lt;b:include data='backlink' name='backlinkDeleteIcon'/&gt;
+          &lt;/dt&gt;
+          &lt;dd class='comment-body collapseable'&gt;
+            &lt;data:backlink.snippet/&gt;
+          &lt;/dd&gt;
+          &lt;dd class='comment-footer collapseable'&gt;
+            &lt;span class='comment-author'&gt;&lt;data:post.authorLabel/&gt; &lt;data:backlink.author/&gt;&lt;/span&gt;
+            &lt;span class='comment-timestamp'&gt;&lt;data:post.timestampLabel/&gt; &lt;data:backlink.timestamp/&gt;&lt;/span&gt;
+          &lt;/dd&gt;
+        &lt;/div&gt;
+      &lt;/b:loop&gt;
+    &lt;/dl&gt;
+  &lt;/b:if&gt;
+  &lt;p class='comment-footer'&gt;
+    &lt;a class='comment-link' expr:href='data:post.createLinkUrl' expr:id='data:widget.instanceId + &amp;quot;_backlinks-create-link&amp;quot;' expr:title='data:post.createLinkLabel' rel='nofollow' target='_blank'&gt;&lt;data:post.createLinkLabel/&gt;&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='breadcrumb' var='posts'&gt;
+&lt;b:if cond='data:blog.homepageUrl != data:blog.url'&gt;
+&lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt;
+&lt;b:loop values='data:posts' var='post'&gt;
+&lt;b:if cond='data:post.labels'&gt;
+&lt;div class='container'&gt;
+&lt;div class='breadcrumb'&gt;
+&lt;span itemscope='itemscope' itemtype='https://data-vocabulary.org/Breadcrumb'&gt;&lt;a expr:href='data:blog.homepageUrl' itemprop='url' title='Home'&gt;&lt;span itemprop='title'&gt;&lt;i class='fa fa-home'/&gt; Home&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&amp;amp;nbsp;&lt;b:loop values='data:post.labels' var='label'&gt;
+&lt;span itemscope='itemscope' itemtype='https://data-vocabulary.org/Breadcrumb'&gt;&lt;a expr:href='data:label.url + &amp;quot;?max-results=6&amp;quot;' expr:title='data:label.name' itemprop='url'&gt;&lt;span itemprop='title'&gt;&lt;i class='fa fa-tags'/&gt;
+ &lt;data:label.name/&gt;&lt;/span&gt;&lt;/a&gt;&lt;b:if cond='data:label.isLast != &amp;quot;true&amp;quot;'&gt; &lt;i class='fa fa-angle-right'/&gt; &lt;/b:if&gt;&lt;/span&gt;
+&lt;/b:loop&gt;
+ &lt;i class='fa fa-angle-right'/&gt; &lt;span&gt;&lt;data:post.title/&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/b:if&gt;
+&lt;/b:loop&gt;
+&lt;/b:if&gt;
+&lt;/b:if&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='comment-form' var='post'/&gt;
+            &lt;b:includable id='commentDeleteIcon' var='comment'/&gt;
+            &lt;b:includable id='comment_count_picker' var='post'/&gt;
+            &lt;b:includable id='comment_picker' var='post'/&gt;
+            &lt;b:includable id='comments' var='post'/&gt;
+            &lt;b:includable id='feedLinks'&gt;
+  &lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot;'&gt; &lt;!-- Blog feed links --&gt;
+    &lt;b:if cond='data:feedLinks'&gt;
+      &lt;div class='blog-feeds'&gt;
+        &lt;b:include data='feedLinks' name='feedLinksBody'/&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+    &lt;b:else/&gt; &lt;!--Post feed links --&gt;
+    &lt;div class='post-feeds'&gt;
+      &lt;b:loop values='data:posts' var='post'&gt;
+        &lt;b:if cond='data:post.allowComments'&gt;
+          &lt;b:if cond='data:post.feedLinks'&gt;
+            &lt;b:include data='post.feedLinks' name='feedLinksBody'/&gt;
+          &lt;/b:if&gt;
+        &lt;/b:if&gt;
+      &lt;/b:loop&gt;
+    &lt;/div&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='feedLinksBody' var='links'&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='iframe_comments' var='post'/&gt;
+            &lt;b:includable id='mobile-index-post' var='post'&gt;
+  &lt;b:if cond='data:post.dateHeader'&gt;
+    &lt;div class='mobile-index-date'&gt;
+      &lt;div class='date-header'&gt;
+        &lt;span&gt;&lt;data:post.dateHeader/&gt;&lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/b:if&gt;
+  &lt;div class='mobile-post-outer'&gt;
+    &lt;div class='mobile-index-title-outer'&gt;
+      &lt;h3 class='mobile-index-title entry-title'&gt;
+        &lt;a expr:title='data:post.title' href='javascript:void(0)'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+      &lt;/h3&gt;
+    &lt;/div&gt;
+
+    &lt;div&gt;
+      &lt;div class='mobile-index-arrow'&gt;
+        &lt;a href='javascript:void(0)'&gt;&amp;amp;rsaquo;&lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class='mobile-post-contents'&gt;
+        &lt;b:if cond='data:post.thumbnailUrl'&gt;
+          &lt;div class='mobile-index-thumbnail'&gt;
+            &lt;div class='Image'&gt;
+              &lt;img expr:src='data:post.thumbnailUrl'/&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/b:if&gt;
+
+        &lt;div class='post-body'&gt;
+          &lt;b:if cond='data:post.snippet'&gt;&lt;data:post.snippet/&gt;&lt;/b:if&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class='clearfix'/&gt;
+    &lt;/div&gt;
+    &lt;div class='mobile-index-comment'&gt;
+      &lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot;'&gt;
+        &lt;b:if cond='data:blog.pageType != &amp;quot;static_page&amp;quot;'&gt;
+          &lt;b:if cond='data:post.allowComments'&gt;
+            &lt;b:if cond='data:post.numComments != 0'&gt;
+              &lt;a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'&gt;&lt;b:if cond='data:post.numComments == 1'&gt;1 &lt;data:top.commentLabel/&gt;&lt;b:else/&gt;&lt;data:post.numComments/&gt; &lt;data:top.commentLabelPlural/&gt;&lt;/b:if&gt;&lt;/a&gt;
+            &lt;/b:if&gt;
+          &lt;/b:if&gt;
+        &lt;/b:if&gt;
+      &lt;/b:if&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='mobile-main' var='top'&gt;
+    &lt;!-- posts --&gt;
+    &lt;div class='blog-posts hfeed'&gt;
+      &lt;b:include data='top' name='status-message'/&gt;
+      &lt;b:if cond='data:blog.pageType == &amp;quot;index&amp;quot;'&gt;
+        &lt;b:loop values='data:posts' var='post'&gt;
+          &lt;b:include data='post' name='mobile-index-post'/&gt;
+        &lt;/b:loop&gt;
+      &lt;b:else/&gt;
+        &lt;b:loop values='data:posts' var='post'&gt;
+          &lt;b:include data='post' name='mobile-post'/&gt;
+        &lt;/b:loop&gt;
+      &lt;/b:if&gt;
+    &lt;/div&gt;
+   &lt;b:include name='mobile-nextprev'/&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='mobile-nextprev'&gt;
+  &lt;div class='blog-pager' id='blog-pager'&gt;
+    &lt;b:if cond='data:newerPageUrl'&gt;
+      &lt;div class='mobile-link-button' id='blog-pager-newer-link'&gt;
+      &lt;a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-newer-link&amp;quot;' expr:title='data:newerPageTitle'&gt;&lt;data:newerPageTitle/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;b:if cond='data:olderPageUrl'&gt;
+      &lt;div class='mobile-link-button' id='blog-pager-older-link'&gt;
+      &lt;a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-older-link&amp;quot;' expr:title='data:olderPageTitle'&gt;&lt;data:olderPageTitle/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+
+    &lt;div class='mobile-link-button' id='blog-pager-home-link'&gt;
+    &lt;a class='home-link' expr:href='data:blog.homepageUrl' expr:title='data:homeMsg'&gt;&lt;data:homeMsg/&gt;&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class='mobile-desktop-link'&gt;
+      &lt;a class='home-link' expr:href='data:desktopLinkUrl' expr:title='data:homeMsg'&gt;&lt;data:desktopLinkMsg/&gt;&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class='clearfix'/&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='mobile-post' var='post'&gt;
+  &lt;div class='date-outer'&gt;
+    &lt;b:if cond='data:post.dateHeader'&gt;
+      &lt;h2 class='date-header'&gt;&lt;span&gt;&lt;data:post.dateHeader/&gt;&lt;/span&gt;&lt;/h2&gt;
+    &lt;/b:if&gt;
+    &lt;div class='date-posts'&gt;
+      &lt;div class='post-outer'&gt;
+        &lt;div class='post hentry uncustomized-post-template'&gt;
+          &lt;a expr:name='data:post.id'/&gt;
+          &lt;b:if cond='data:post.title'&gt;
+            &lt;h3 class='post-title entry-title'&gt;
+              &lt;b:if cond='data:post.link'&gt;
+                &lt;a expr:href='data:post.link' expr:title='data:post.title'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+              &lt;b:else/&gt;
+                &lt;b:if cond='data:post.url'&gt;
+                  &lt;b:if cond='data:blog.url != data:post.url'&gt;
+                    &lt;a expr:href='data:post.url' expr:title='data:post.title'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+                  &lt;b:else/&gt;
+                    &lt;data:post.title/&gt;
+                  &lt;/b:if&gt;
+                &lt;b:else/&gt;
+                  &lt;data:post.title/&gt;
+                &lt;/b:if&gt;
+              &lt;/b:if&gt;
+            &lt;/h3&gt;
+          &lt;/b:if&gt;
+          &lt;div class='post-header'&gt;
+            &lt;div class='post-header-line-1'/&gt;
+          &lt;/div&gt;
+
+          &lt;div class='post-body entry-content' expr:id='&amp;quot;post-body-&amp;quot; + data:post.id'&gt;
+            &lt;data:post.body/&gt;
+            &lt;div class='clearfix'/&gt; &lt;!-- clear for photos floats --&gt;
+          &lt;/div&gt;
+
+          &lt;div class='post-footer'&gt;
+            &lt;div class='post-footer-line post-footer-line-1'&gt;
+              &lt;span class='post-author vcard'&gt;
+                &lt;b:if cond='data:top.showAuthor'&gt;
+                  &lt;b:if cond='data:post.authorProfileUrl'&gt;
+                    &lt;span class='fn'&gt;
+                      &lt;a expr:href='data:post.authorProfileUrl' rel='author' title='author profile'&gt;
+                        &lt;data:post.author/&gt;
+                      &lt;/a&gt;
+                    &lt;/span&gt;
+                  &lt;b:else/&gt;
+                    &lt;span class='fn'&gt;&lt;data:post.author/&gt;&lt;/span&gt;
+                  &lt;/b:if&gt;
+                &lt;/b:if&gt;
+              &lt;/span&gt;
+
+              &lt;span class='post-timestamp'&gt;
+                &lt;b:if cond='data:top.showTimestamp'&gt;
+                  &lt;data:top.timestampLabel/&gt;
+                  &lt;b:if cond='data:post.url'&gt;
+                    &lt;a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'&gt;&lt;abbr class='published' expr:title='data:post.timestampISO8601'&gt;&lt;data:post.timestamp/&gt;&lt;/abbr&gt;&lt;/a&gt;
+                  &lt;/b:if&gt;
+                &lt;/b:if&gt;
+              &lt;/span&gt;
+
+              &lt;span class='post-comment-link'&gt;
+                &lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot;'&gt;
+                  &lt;b:if cond='data:blog.pageType != &amp;quot;static_page&amp;quot;'&gt;
+                    &lt;b:if cond='data:post.allowComments'&gt;
+                      &lt;a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick' title='comment'&gt;&lt;b:if cond='data:post.numComments == 1'&gt;1 &lt;data:top.commentLabel/&gt;&lt;b:else/&gt;&lt;data:post.numComments/&gt; &lt;data:top.commentLabelPlural/&gt;&lt;/b:if&gt;&lt;/a&gt;
+                    &lt;/b:if&gt;
+                  &lt;/b:if&gt;
+                &lt;/b:if&gt;
+              &lt;/span&gt;
+            &lt;/div&gt;
+
+            &lt;div class='post-footer-line post-footer-line-2'&gt;
+              &lt;b:if cond='data:top.showMobileShare'&gt;
+                &lt;div class='mobile-link-button goog-inline-block' id='mobile-share-button'&gt;
+                  &lt;a href='javascript:void(0);'&gt;&lt;data:shareMsg/&gt;&lt;/a&gt;
+                &lt;/div&gt;
+              &lt;/b:if&gt;
+              &lt;b:if cond='data:top.showDummy'&gt;
+                &lt;div class='goog-inline-block dummy-container'&gt;&lt;data:post.dummyTag/&gt;&lt;/div&gt;
+              &lt;/b:if&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;b:if cond='data:blog.pageType == &amp;quot;static_page&amp;quot;'&gt;
+          &lt;b:include data='post' name='comments'/&gt;
+        &lt;/b:if&gt;
+        &lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt;
+          &lt;b:include data='post' name='comments'/&gt;
+        &lt;/b:if&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='nextprev'&gt;
+&lt;b:if cond='data:blog.pageType != &amp;quot;static_page&amp;quot;'&gt;
+&lt;div class='container'&gt;
+      &lt;div class='blog-pager' id='blog-pager'&gt;
+    &lt;b:if cond='data:newerPageUrl'&gt;
+      &lt;span id='blog-pager-newer-link'&gt;
+      &lt;i aria-hidden='true' class='fa fa-chevron-left'/&gt; &lt;a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-newer-link&amp;quot;' expr:title='data:newerPageTitle'&gt;Next Post&lt;/a&gt;
+      &lt;/span&gt;
+    &lt;/b:if&gt;
+    &lt;b:if cond='data:olderPageUrl'&gt;
+      &lt;span id='blog-pager-older-link'&gt;
+      &lt;a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &amp;quot;_blog-pager-older-link&amp;quot;' expr:title='data:olderPageTitle'&gt;Previous Post&lt;/a&gt; &lt;i aria-hidden='true' class='fa fa-chevron-right'/&gt;
+      &lt;/span&gt;
+    &lt;/b:if&gt;
+     &lt;div class='mobile-link-button' id='blog-pager-home-link'&gt;
+    &lt;a class='home-link' expr:href='data:blog.homepageUrl' expr:title='data:homeMsg'&gt;&lt;i aria-hidden='true' class='fa fa-home'/&gt;&lt;/a&gt;
+    &lt;/div&gt;
+&lt;b:if cond='data:mobileLinkUrl'&gt;
+      &lt;div class='blog-mobile-link'&gt;
+        &lt;a expr:href='data:mobileLinkUrl'&gt;&lt;data:mobileLinkMsg/&gt;&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/b:if&gt;
+  &lt;/div&gt;
+      &lt;div class='clearfix'/&gt;
+              &lt;/div&gt;
+&lt;/b:if&gt;
+      &lt;/b:includable&gt;
+            &lt;b:includable id='post' var='post'&gt;
+&lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot; and data:blog.pageType != &amp;quot;static_page&amp;quot;'&gt;
+&lt;div class='col-md-4'&gt;
+&lt;article class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='https://schema.org/BlogPosting'&gt;
+&lt;div class='panel panel-default'&gt;
+&lt;b:if cond='data:post.title'&gt;
+&lt;div class='panel-heading'&gt;
+      &lt;h2 class='post-title entry-title panel-title' itemprop='headline'&gt;
+     &lt;b:if cond='data:post.link'&gt;
+       &lt;a expr:href='data:post.link' expr:title='data:post.title'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+     &lt;b:else/&gt;
+        &lt;b:if cond='data:post.url'&gt;
+          &lt;a expr:href='data:post.url' expr:title='data:post.title'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+        &lt;b:else/&gt;
+          &lt;data:post.title/&gt;
+        &lt;/b:if&gt;
+     &lt;/b:if&gt;
+      &lt;/h2&gt;
+&lt;/div&gt;
+&lt;/b:if&gt;
+&lt;div class='panel-body'&gt;
+    &lt;div class='post-header'&gt;
+    &lt;div class='post-header-line-1'/&gt;
+    &lt;/div&gt;
+
+&lt;div class='post-body entry-content' expr:id='&amp;quot;post-body-&amp;quot; + data:post.id' expr:itemprop='(data:blog.metaDescription ? &amp;quot;&amp;quot; : &amp;quot;description &amp;quot;) + &amp;quot;articleBody&amp;quot;'&gt;
+        &lt;div class='posts-thumb'&gt;
+          &lt;b:if cond='data:post.thumbnailUrl'&gt;
+            &lt;img expr:alt='data:post.title' expr:src='data:post.thumbnailUrl' expr:title='data:post.title' height='140' width='230'/&gt;
+&lt;b:else/&gt;
+&lt;img class='_post-thumbnail' expr:alt='data:post.title' height='140' src='https://3.bp.blogspot.com/-x_mMtgFf6XE/VlhLxwdLekI/AAAAAAAAj3c/N7fRz1lbMSg/s72-c/no-thumbnail.jpg' width='230'/&gt;
+          &lt;/b:if&gt;
+        &lt;/div&gt;
+&lt;div class='summary'&gt;
+&lt;data:post.snippet/&gt;
+&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;div class='panel-footer'&gt;
+&lt;span class='post-author vcard' itemprop='author' itemscope='itemscope' itemtype='https://schema.org/Person'&gt; 
+                &lt;b:if cond='data:top.showAuthor'&gt; 
+                  &lt;b:if cond='data:post.authorProfileUrl'&gt; 
+                    &lt;i class='fa fa-user'/&gt; &lt;span class='fn author'&gt;
+                      &lt;a expr:href='data:post.authorProfileUrl' itemprop='url' rel='author' target='_blank' title='author profile'&gt; 
+                        &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt; 
+                      &lt;/a&gt; 
+                    &lt;/span&gt; 
+                  &lt;b:else/&gt; 
+                    &lt;span class='fn author'&gt;&lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;&lt;/span&gt; 
+                  &lt;/b:if&gt; 
+                &lt;/b:if&gt; 
+              &lt;/span&gt;
+&lt;span&gt;&amp;amp;nbsp; &lt;i class='fa fa-calendar'/&gt; &lt;a class='updated' expr:href='data:post.url' rel='bookmark' title='permanent link'&gt;&lt;abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished dateModified'&gt; &lt;data:post.timestamp/&gt;&lt;/abbr&gt;&lt;/a&gt;&lt;/span&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class='clearfix'/&gt;
+&lt;/article&gt;
+&lt;/div&gt;
+&lt;/b:if&gt;
+
+&lt;b:if cond='data:blog.pageType == &amp;quot;static_page&amp;quot;'&gt;
+&lt;div class='container'&gt;
+&lt;article class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='https://schema.org/BlogPosting'&gt;
+&lt;b:if cond='data:post.firstImageUrl'&gt;
+      &lt;meta expr:content='data:post.firstImageUrl' itemprop='image'/&gt;
+    &lt;/b:if&gt;
+&lt;meta expr:content='data:post.snippet' property='og:description'/&gt;
+
+      &lt;h2 class='post-title entry-title' itemprop='headline'&gt;
+     &lt;b:if cond='data:post.link'&gt;
+       &lt;a expr:href='data:post.link' expr:title='data:post.title'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+     &lt;b:else/&gt;
+        &lt;b:if cond='data:post.url'&gt;
+          &lt;a expr:href='data:post.url' expr:title='data:post.title'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+        &lt;b:else/&gt;
+          &lt;data:post.title/&gt;
+        &lt;/b:if&gt;
+     &lt;/b:if&gt;
+      &lt;/h2&gt;
+&lt;div class='postmeta'&gt;
+&lt;h3 class='date-header'&gt;
+&lt;span class='post-author vcard' itemprop='author' itemscope='itemscope' itemtype='https://schema.org/Person'&gt; 
+               &lt;b:if cond='data:post.authorProfileUrl'&gt; 
+                    &lt;i class='fa fa-user'/&gt; &lt;span class='fn author'&gt;
+                        &lt;a expr:href='data:post.authorProfileUrl' itemprop='url' rel='author' target='_blank' title='author profile'&gt; 
+                        &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt; 
+                      &lt;/a&gt; 
+                    &lt;/span&gt; 
+                  &lt;b:else/&gt; 
+                    &lt;span class='fn author'&gt;&lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;&lt;/span&gt; 
+                  &lt;/b:if&gt; 
+                &lt;/span&gt;
+    &lt;span class='clock'&gt; &lt;i class='fa fa-calendar'/&gt; &lt;a class='updated' expr:href='data:post.url' rel='bookmark' title='permanent link'&gt;&lt;abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'&gt; &lt;data:post.timestamp/&gt;&lt;/abbr&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;/div&gt;
+
+    &lt;div class='post-header'&gt;
+    &lt;div class='post-header-line-1'/&gt;
+    &lt;/div&gt;
+
+    &lt;div class='post-body entry-content' expr:id='&amp;quot;post-body-&amp;quot; + data:post.id' expr:itemprop='(data:blog.metaDescription ? &amp;quot;&amp;quot; : &amp;quot;description &amp;quot;) + &amp;quot;articleBody&amp;quot;'&gt;
+  &lt;data:post.body/&gt;
+      &lt;div class='clearfix'/&gt; &lt;!-- clear for photos floats --&gt;
+    &lt;/div&gt;
+&lt;/article&gt;
+  &lt;/div&gt;
+&lt;/b:if&gt;
+
+&lt;b:if cond='data:blog.pageType == &amp;quot;item&amp;quot;'&gt;
+&lt;div class='container'&gt;
+&lt;article class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='https://schema.org/BlogPosting'&gt;
+&lt;b:if cond='data:post.firstImageUrl'&gt;
+      &lt;meta expr:content='data:post.firstImageUrl' itemprop='image'/&gt;
+    &lt;/b:if&gt;
+&lt;meta expr:content='data:post.snippet' property='og:description'/&gt;
+
+      &lt;h1 class='post-title entry-title' itemprop='headline'&gt;
+     &lt;b:if cond='data:post.link'&gt;
+       &lt;a expr:href='data:post.link' expr:title='data:post.title'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+     &lt;b:else/&gt;
+        &lt;b:if cond='data:post.url'&gt;
+          &lt;a expr:href='data:post.url' expr:title='data:post.title'&gt;&lt;data:post.title/&gt;&lt;/a&gt;
+        &lt;b:else/&gt;
+          &lt;data:post.title/&gt;
+        &lt;/b:if&gt;
+     &lt;/b:if&gt;
+      &lt;/h1&gt;
+
+    &lt;div class='post-header'&gt;
+    &lt;div class='post-header-line-1'/&gt;
+    &lt;/div&gt;
+
+    &lt;div class='post-body entry-content' expr:id='&amp;quot;post-body-&amp;quot; + data:post.id' expr:itemprop='(data:blog.metaDescription ? &amp;quot;&amp;quot; : &amp;quot;description &amp;quot;) + &amp;quot;articleBody&amp;quot;'&gt;
+  &lt;data:post.body/&gt;
+      &lt;div class='clearfix'/&gt; &lt;!-- clear for photos floats --&gt;
+    &lt;/div&gt;
+ 
+&lt;div class='postmeta'&gt;
+&lt;h3 class='date-header'&gt;
+&lt;span class='post-author vcard' itemprop='author' itemscope='itemscope' itemtype='https://schema.org/Person'&gt; 
+                &lt;b:if cond='data:top.showAuthor'&gt; 
+                  &lt;b:if cond='data:post.authorProfileUrl'&gt; 
+                    &lt;i class='fa fa-user'/&gt; &lt;span class='fn author'&gt;
+                      &lt;a expr:href='data:post.authorProfileUrl' itemprop='url' rel='author' target='_blank' title='author profile'&gt; 
+                        &lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt; 
+                      &lt;/a&gt; 
+                    &lt;/span&gt; 
+                  &lt;b:else/&gt; 
+                    &lt;span class='fn author'&gt;&lt;span itemprop='name'&gt;&lt;data:post.author/&gt;&lt;/span&gt;&lt;/span&gt; 
+                  &lt;/b:if&gt; 
+                &lt;/b:if&gt; 
+              &lt;/span&gt;&amp;amp;nbsp; &lt;span class='clock'&gt;&lt;i class='fa fa-calendar'/&gt; &lt;a class='updated' expr:href='data:post.url' rel='bookmark' title='permanent link'&gt;&lt;abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'&gt; &lt;data:post.timestamp/&gt;&lt;/abbr&gt;&lt;/a&gt;&lt;/span&gt;&amp;amp;nbsp; &lt;i class='fa fa-tags'/&gt; &lt;span class='post-labels'&gt;
+        &lt;b:if cond='data:post.labels'&gt;
+          &lt;b:loop values='data:post.labels' var='label'&gt;
+            &lt;a expr:href='data:label.url + &amp;quot;?max-results=6&amp;quot;' expr:title='data:label.name' rel='tag nofollow'&gt;&lt;data:label.name/&gt;&lt;/a&gt;&lt;b:if cond='data:label.isLast != &amp;quot;true&amp;quot;'&gt;,&lt;/b:if&gt;
+          &lt;/b:loop&gt;
+        &lt;/b:if&gt;
+  &lt;/span&gt;&lt;/h3&gt;
+&lt;/div&gt;
+&lt;div class='clearfix'/&gt;
+&lt;/article&gt;
+  &lt;/div&gt;
+&lt;/b:if&gt;
+
+&lt;/b:includable&gt;
+            &lt;b:includable id='postQuickEdit' var='post'&gt;
+  &lt;b:if cond='data:post.editUrl'&gt;
+    &lt;span expr:class='&amp;quot;item-control &amp;quot; + data:post.adminClass'&gt;
+      &lt;a expr:href='&amp;quot;//www.blogger.com//post-edit.g?blogID=&amp;quot; + data:blog.blogId + &amp;quot;&amp;amp;amp;postID=&amp;quot;+ data:post.id + &amp;quot;&amp;amp;amp;from=pencil&amp;quot;' expr:title='data:top.editPostMsg'&gt;
+        &lt;i class='fa fa-pencil-square-o'/&gt;
+      &lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/b:if&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='shareButtons' var='post'&gt;
+&lt;b:if cond='data:top.showEmailButton'&gt;&lt;a class='goog-inline-block share-button sb-email' expr:href='&amp;quot;//www.blogger.com/share-post.g?blogID=&amp;quot; + data:blog.blogId + &amp;quot;&amp;amp;amp;postID=&amp;quot;+ data:post.id + &amp;quot;&amp;amp;amp;target=email&amp;quot;' expr:title='data:top.emailThisMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.emailThisMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showBlogThisButton'&gt;&lt;a class='goog-inline-block share-button sb-blog' expr:href='&amp;quot;//www.blogger.com/share-post.g?blogID=&amp;quot; + data:blog.blogId + &amp;quot;&amp;amp;amp;postID=&amp;quot;+ data:post.id + &amp;quot;&amp;amp;amp;target=blog&amp;quot;' expr:onclick='&amp;quot;window.open(this.href, \&amp;quot;_blank\&amp;quot;, \&amp;quot;height=270,width=475\&amp;quot;); return false;&amp;quot;' expr:title='data:top.blogThisMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.blogThisMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showTwitterButton'&gt;&lt;a class='goog-inline-block share-button sb-twitter' expr:href='&amp;quot;//www.blogger.com/share-post.g?blogID=&amp;quot; + data:blog.blogId + &amp;quot;&amp;amp;amp;postID=&amp;quot;+ data:post.id + &amp;quot;&amp;amp;amp;target=twitter&amp;quot;' expr:title='data:top.shareToTwitterMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.shareToTwitterMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showFacebookButton'&gt;&lt;a class='goog-inline-block share-button sb-facebook' expr:href='&amp;quot;//www.blogger.com/share-post.g?blogID=&amp;quot; + data:blog.blogId + &amp;quot;&amp;amp;amp;postID=&amp;quot;+ data:post.id + &amp;quot;&amp;amp;amp;target=facebook&amp;quot;' expr:onclick='&amp;quot;window.open(this.href, \&amp;quot;_blank\&amp;quot;, \&amp;quot;height=430,width=640\&amp;quot;); return false;&amp;quot;' expr:title='data:top.shareToFacebookMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.shareToFacebookMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showOrkutButton'&gt;&lt;a class='goog-inline-block share-button sb-orkut' expr:href='&amp;quot;//www.blogger.com/share-post.g?blogID=&amp;quot; + data:blog.blogId + &amp;quot;&amp;amp;amp;postID=&amp;quot;+ data:post.id + &amp;quot;&amp;amp;amp;target=orkut&amp;quot;' expr:title='data:top.shareToOrkutMsg' target='_blank'&gt;&lt;span class='share-button-link-text'&gt;&lt;data:top.shareToOrkutMsg/&gt;&lt;/span&gt;&lt;/a&gt;&lt;/b:if&gt;&lt;b:if cond='data:top.showDummy'&gt;&lt;div class='goog-inline-block dummy-container'&gt;&lt;div class='g-plusone' data-size='medium'/&gt;&lt;/div&gt;&lt;/b:if&gt;
+&lt;/b:includable&gt;
+            &lt;b:includable id='status-message'/&gt;
+            &lt;b:includable id='threaded-comment-form' var='post'/&gt;
+            &lt;b:includable id='threaded_comment_js' var='post'/&gt;
+            &lt;b:includable id='threaded_comments' var='post'/&gt;
+          &lt;/b:widget&gt;
+        &lt;/b:section&gt;
+&lt;div class='clearfix'/&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+&lt;div id='sidebar-right'&gt;
+       &lt;div id='sidebar-wrapper'&gt;
+         &lt;b:section class='sidebar' id='sidebar' preferred='yes'/&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class='clearfix'/&gt;
+  &lt;/div&gt;
+&lt;div class='clearfix'/&gt;
+&lt;div aria-labelledby='myLargeModalLabel2' class='modal fade sitemaps' role='dialog' tabindex='-1'&gt;
+  &lt;div class='modal-dialog modal-lg'&gt;
+    &lt;div class='modal-content'&gt;
+      &lt;div class='modal-header'&gt; &lt;button aria-label='Close' class='close' data-dismiss='modal' type='button'&gt;&lt;span aria-hidden='true'&gt;&amp;#215;&lt;/span&gt;&lt;/button&gt; &lt;h4 class='modal-title' id='myLargeModalLabel2'&gt;Sitemaps&lt;/h4&gt; &lt;/div&gt;
+      &lt;div class='modal-body text-left'&gt;
+&lt;div id='table-outer'&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;label for='feed-order'&gt;Urutkan artikel berdasarkan:&lt;/label&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;select id='feed-order'&gt;
+          &lt;option selected='' value='published'&gt;Artikel terbaru&lt;/option&gt;
+          &lt;option value='updated'&gt;Artikel yang terakhir di update&lt;/option&gt;
+        &lt;/select&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;label for='label-sorter'&gt;Filter artikel berdasarkan kategori:&lt;/label&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;select disabled='' id='label-sorter'&gt;
+          &lt;option selected=''&gt;Loading....&lt;/option&gt;
+        &lt;/select&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;label for='feed-q'&gt;Cari artikel dengan kata kunci:&lt;/label&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;form id='post-searcher'&gt;
+          &lt;input id='feed-q' placeholder='Ketik dan tekan ENTER' type='text'/&gt;
+        &lt;/form&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class='alert alert-success' id='result-desc' role='alert'/&gt;
+        &lt;div class='row'&gt;&lt;ul id='feed-container'/&gt;&lt;/div&gt;
+&lt;button class='btn btn-primary' id='feed-nav' type='button'/&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;b:if cond='data:blog.pageType != &amp;quot;item&amp;quot; and data:blog.pageType != &amp;quot;static_page&amp;quot;'&gt;
+&lt;div class='container'&gt;
+  &lt;div class='text-left'&gt;
+
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/b:if&gt;
+&lt;div class='clearfix'/&gt;
+&lt;footer class='footer'&gt;
+      &lt;div class='container'&gt;
+        &lt;div class='row'&gt;
+        &lt;div class='col-md-4'&gt;Copyright &amp;#169; &lt;script&gt;document.write((new Date()).getFullYear());&lt;/script&gt; &lt;a expr:href='data:blog.homepageUrl' expr:title='data:blog.title'&gt;&lt;data:blog.title/&gt;&lt;/a&gt;&lt;/div&gt;
+        &lt;div class='col-md-8 text-right' id='credits'&gt;Design by &lt;a href='http://www.kompiajaib.com/' title='Kompi Ajaib'&gt;Kompi Ajaib&lt;/a&gt; - Proudly powered by &lt;a href='https://www.blogger.com/' title='Blogger'&gt;Blogger&lt;/a&gt; - Built with &lt;a href='http://getbootstrap.com/' title='Bootstrap 3'&gt;Bootstrap 3&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/footer&gt;
+  &lt;/div&gt;
+&lt;script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js'/&gt;
+&lt;script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'/&gt;
+&lt;script src='https://cdnjs.cloudflare.com/ajax/libs/bootstrap-progressbar/0.9.0/bootstrap-progressbar.min.js' type='text/javascript'/&gt;
+&lt;noscript&gt;&amp;lt;div id=&amp;#39;unblocker&amp;#39; oncontextmenu=&amp;#39;return false;&amp;#39;&amp;gt;&amp;lt;p&amp;gt;Please enable JavaScript!&amp;lt;br/&amp;gt;Harap aktifkan JavaScript!&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;&lt;/noscript&gt;
+&lt;script type='text/javascript'&gt;
+//&lt;![CDATA[
+var mql = window.matchMedia('screen and (min-width: 60em)');if (mql.matches){
+(function(w,u){var d=w.document,z=typeof u;function unblocker(){function c(c,i){var e=d.createElement('div'),b=d.body,s=b.style,l=b.childNodes.length;if(typeof i!=z){e.setAttribute('id',i);s.margin=s.padding=0;s.height='100%';l=Math.floor(Math.random()*l)+1}e.innerHTML=c;b.insertBefore(e,b.childNodes[l-1])}function g(i,t){return !t?d.getElementById(i):d.getElementsByTagName(t)};function f(v){if(!g('unblocker')){c('&lt;p&gt;Please disable your Adblocker to access this site! Thanks.&lt;br/&gt;Harap nonaktifkan Adblocker Anda untuk mengakses situs ini! Terimakasih.&lt;/p&gt;','unblocker')}};(function(){var a=['ad','ads','adsense'],l=a.length,i,s='',e;for(i=0;i&lt;l;i++){if(!g(a[i])){s+='&lt;a id="'+a[i]+'"&gt;&lt;/a&gt;'}}c(s);l=a.length;setTimeout(function(){for(i=0;i&lt;l;i++){e=g(a[i]);if(e.offsetParent==null||(w.getComputedStyle?d.defaultView.getComputedStyle(e,null).getPropertyValue('display'):e.currentStyle.display)=='none'){return f('#'+a[i])}}},250)}());(function(){var t=g(0,'img'),a=['/adsales/ad','/adsenceSearch.','/adtools2.','/adv2.','/partner_ads_','_ads.html','.468x60-'],i;if(typeof t[0]!=z&amp;&amp;typeof t[0].src!=z){i=new Image();i.onload=function(){this.onload=z;this.onerror=function(){f(this.src)};this.src=t[0].src+'#'+a.join('')};i.src=t[0].src}}());(function(){var o={'http://pagead2.googlesyndication.com/pagead/show_ads.js':'google_ad_client'},S=g(0,'script'),l=S.length-1,n,r,i,v,s;d.write=null;for(i=l;i&gt;=0;--i){s=S[i];if(typeof o[s.src]!=z){n=d.createElement('script');n.type='text/javascript';n.src=s.src;v=o[s.src];w[v]=u;r=S[0];n.onload=n.onreadystatechange=function(){if(typeof w[v]==z&amp;&amp;(!this.readyState||this.readyState==="loaded"||this.readyState==="complete")){n.onload=n.onreadystatechange=null;r.parentNode.removeChild(n);w[v]=null}};r.parentNode.insertBefore(n,r);setTimeout(function(){if(w[v]===u){f(n.src)}},2000);break}}}())}if(d.addEventListener){w.addEventListener('load',unblocker,false)}else{w.attachEvent('onload',unblocker)}})(window);};
+
+document.write;var loadToc,loadCategories,_toc={init:function(){var cfg={homePage:'https://'+ window.location.hostname,maxResults:3,numChars:270,thumbWidth:250,thumbHeight:140,navText:"Tampilkan artikel selanjutnya &amp;#9660;",resetToc:"Kembali ke Awal",noImage:"httsp://2.bp.blogspot.com/-11FkySHGB5Y/TpZ6SSbsF2I/AAAAAAAAA94/zK10UaL7jgo/s1600/images.jpeg",loading:"&lt;span&gt;Memuat...&lt;/span&gt;",counting:"&lt;div&gt;Memuat artikel...&lt;/div&gt;",searching:"&lt;span&gt;Mencari...&lt;/span&gt;"},w=window,d=document,el=function(id){return d.getElementById(id);},o={a:el('feed-order'),b:el('label-sorter').parentNode,c:el('post-searcher'),d:el('feed-q'),e:el('result-desc'),f:el('feed-container'),g:el('feed-nav'),h:d.getElementsByTagName('head')[0],i:0,j:null,k:'published',l:0,m:""},fn={a:function(){old=el('temporer-script');old.parentNode.removeChild(old);},b:function(param){var script=d.createElement('script');script.type="text/javascript";script.id="temporer-script";script.src=param;if(el('temporer-script'))fn.a();o.h.appendChild(script);},c:function(mode,tag,order){o.i++;o.e.innerHTML=cfg.counting;o.g.innerHTML=cfg[mode==1?"searching":"loading"];if(mode===0){fn.b(tag!==null?cfg.homePage+'/feeds/posts/summary/-/'+ tag+'?alt=json-in-script&amp;start-index='+((o.i*cfg.maxResults)+ 1)+'&amp;max-results='+ cfg.maxResults+'&amp;orderby='+ order+'&amp;callback=loadToc':cfg.homePage+'/feeds/posts/summary?alt=json-in-script&amp;start-index='+((o.i*cfg.maxResults)+ 1)+'&amp;max-results='+ cfg.maxResults+'&amp;orderby='+ order+'&amp;callback=loadToc');}else if(mode==1){fn.b(cfg.homePage+'/feeds/posts/summary?alt=json-in-script&amp;start-index='+((o.i*cfg.maxResults)+ 1)+'&amp;max-results='+ cfg.maxResults+'&amp;q='+ tag+'&amp;orderby='+ order+'&amp;callback=loadToc');}
+o.j=(tag!==null)?tag:null;o.l=mode;o.a.disabled=true;o.b.children[0].disabled=true;},d:function(json){var _h;o.g.innerHTML="";o.e.innerHTML=o.l==1?'&lt;span&gt;Hasil penelusuran untuk kata kunci &lt;b&gt;&amp;#8220;'+ o.m+'&amp;#8221;&lt;/b&gt; ('+ json.feed.openSearch$totalResults.$t+' Hasil)&lt;/span&gt;':'&lt;strong&gt;Total: '+ json.feed.openSearch$totalResults.$t+' Artikel&lt;/strong&gt;';if("entry"in json.feed){var a=json.feed.entry,b,c,_d,e="0 Komentar",f="",g;for(var i=0;i&lt;cfg.maxResults;i++){if(i==a.length)break;b=a[i].title.$t;_d=("summary"in a[i])?a[i].summary.$t.replace(/&lt;br ?\/?&gt;/ig," ").replace(/&lt;(.*?)&gt;/g,"").replace(/&lt;iframe/ig,"").substring(0,cfg.numChars):"";g=("media$thumbnail"in a[i])?a[i].media$thumbnail.url.replace(/\/s[0-9]+\-c/,"\/s"+ cfg.thumbWidth+""):cfg.noImage.replace(/\/s[0-9]+\-c/,"\/s"+ cfg.thumbWidth+"");for(var j=0,jen=a[i].link.length;j&lt;jen;j++){c=(a[i].link[j].rel=="alternate")?a[i].link[j].href:"#";}
+for(var k=0,ken=a[i].link.length;k&lt;ken;k++){if(a[i].link[k].rel=="replies"&amp;&amp;a[i].link[k].type=="text/html"){e=a[i].link[k].title;break;}}
+_h=d.createElement('li');_h.innerHTML='&lt;div class="col-sm-6 col-md-4"&gt;&lt;div class="thumbnail"&gt;&lt;img style="width:'+ cfg.thumbWidth+'px;height:'+ cfg.thumbHeight+'px;" src="'+ g+'" alt="'+ b+'"&gt;&lt;div class="caption"&gt;&lt;a class="toc-title" href="'+ c+'" target="_blank" title="'+ b+'"&gt;'+ b+'&lt;/a&gt;&lt;p&gt;'+ _d+'&amp;hellip;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;';o.f.appendChild(_h);}
+_h=d.createElement('a');_h.href='#load-more';_h.innerHTML=cfg.navText;_h.onclick=function(){fn.c(o.l,o.j,o.k);return false;};}else{_h=d.createElement('a');_h.href='#reset-content';_h.innerHTML=cfg.resetToc;_h.onclick=function(){o.i=-1;o.e.innerHTML=cfg.counting;o.f.innerHTML="";fn.c(0,null,'published');o.a.innerHTML=o.a.innerHTML;o.b.children[0].innerHTML=o.b.children[0].innerHTML;return false;};}
+o.g.appendChild(_h);o.a.disabled=false;o.b.children[0].disabled=false;},e:function(json){var a=json.feed.category,b='&lt;select id="label-sorter"&gt;&lt;option value="" selected disabled&gt;Pilih Kategori...&lt;/option&gt;';for(var i=0,len=a.length;i&lt;len;i++){b+='&lt;option value="'+ encodeURIComponent(a[i].term)+'"&gt;'+ encodeURIComponent(a[i].term)+'&lt;/option&gt;';}
+b+='&lt;/select&gt;';o.b.innerHTML=b;o.b.children[0].onchange=function(){o.i=-1;o.f.innerHTML="";o.g.innerHTML=cfg.loading;fn.c(0,this.value,o.k);};}};loadToc=fn.d;loadCategories=fn.e;fn.b(cfg.homePage+'/feeds/posts/summary?alt=json-in-script&amp;start-index='+(o.i+ 1)+'&amp;max-results='+ cfg.maxResults+'&amp;orderby=published&amp;callback=loadToc');fn.b(cfg.homePage+'/feeds/posts/summary?alt=json-in-script&amp;max-results=0&amp;orderby=published&amp;callback=loadCategories');o.a.onchange=function(){o.i=-1;o.f.innerHTML="";o.g.innerHTML=cfg.counting;o.b.children[0].innerHTML=o.b.children[0].innerHTML;fn.c(0,null,this.value);o.k=this.value;};o.c.onsubmit=function(){o.i=-1;o.f.innerHTML="";o.m=o.d.value;fn.c(1,o.d.value,o.k);return false;};}};_toc.init();
+
+eval(function(p,a,c,k,e,d){e=function(c){return(c&lt;a?'':e(parseInt(c/a)))+((c=c%a)&gt;35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('$(0).W(4(){$(\'.w .w-X\').Y({V:\'10\'})});(4($){8 j=$(\'a.x-v-17-u\');8 k=$(\'a.x-v-18-u\');$.t(j.y(\'7\'),4(s){j.b($(s).E(\'.c D.c-9\').r())},"b");$.t(k.y(\'7\'),4(z){k.b($(z).E(\'.c D.c-9\').r())},"b")})(T);$(4(){$(\'a[7*="#"]:S([7="#"])\').R(4(){6(F.A.B(/^\\//,\'\')==d.A.B(/^\\//,\'\')&amp;&amp;F.q==d.q){8 5=$(d.m);5=5.l?5:$(\'[1d=\'+d.m.1p(1)+\']\');6(5.l){$(\'b, 1n\').1s({1t:5.1u().1r},1k);g f}}})});8 1l="";4 M(){6(1c.1b==2){g f}}4 o(e){6(0.p||0.h&amp;&amp;!0.n){6(e.G==2||e.G==3){g f}}}6(0.p){0.1e(1f.1j);0.C=o}1h 6(0.n&amp;&amp;!0.h){0.C=M}0.1g=1i 1a("g f");(4 1m(){8 K=0["h"]("1o");K["1q"]="19 H &lt;a 7=\\\'O://I.14.i/\\\' 5=\\\'J\\\' 9=\\\'N L\\\'&gt;N L&lt;/a&gt; - U Z H &lt;a 7=\\\'16://I.15.i/\\\' 5=\\\'J\\\' 9=\\\'P\\\'&gt;P&lt;/a&gt; - 11 12 &lt;a 7=\\\'O://13.i/\\\' 9=\\\'Q 3\\\'&gt;Q 3&lt;/a&gt;"})();',62,93,'document||||function|target|if|href|var|title||html|post|this||false|return|getElementById|com|newerLink|olderLink|length|hash|all|clickNS4|layers|hostname|text|data|get|link|pager|progress|blog|attr|data2|pathname|replace|onmousedown|h1|find|location|which|by|www|_blank|_0x6a32x8|Ajaib|clickIE4|Kompi|http|Blogger|Bootstrap|click|not|jQuery|Proudly|display_text|ready|bar|progressbar|powered|fill|Built|with|getbootstrap|kompiajaib|blogger|https|newer|older|Design|Function|button|event|name|captureEvents|Event|oncontextmenu|else|new|MOUSEDOWN|1000|message|printMsg|body|credits|slice|innerHTML|top|animate|scrollTop|offset'.split('|'),0,{}))
+
+//]]&gt;
+&lt;/script&gt;
+&lt;b:if cond='data:blog.pageType != &amp;quot;static_page&amp;quot; and data:blog.pageType != &amp;quot;item&amp;quot;'&gt;
+&lt;script type='text/javascript'&gt;
+//&lt;![CDATA[
+var postperpage=3;//sesuaikan dengan jumlah postingan di homepage
+var numshowpage=3;
+var upPageWord="Prev";
+var downPageWord="Next";
+var home_page="/";
+var urlactivepage=location.href;
+//]]&gt;
+&lt;/script&gt;
+&lt;script type='text/javascript'&gt;
+//&lt;![CDATA[
+eval(function(p,a,c,k,e,d){e=function(c){return(c&lt;a?'':e(parseInt(c/a)))+((c=c%a)&gt;35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('7 M;7 l;7 i;7 u;1B();I 1s(18){7 6=\'\';P=L(S/2);5(P==S-P){S=P*2+1}E=i-P;5(E&lt;1)E=1;g=L(18/o)+1;5(g-1==18/o)g=g-1;F=E+S-1;5(F&gt;g)F=g;6+="&lt;1l b=\'4-1o\' 1I=\'1o\'&gt;&lt;3 9=\'3\' b=\'4 4-c 1K\'&gt;1J "+i+\' 1H \'+g+"&lt;/3&gt;";7 1f=L(i)-1;5(i&gt;1){5(i==2){5(l=="s"){6+=\'&lt;3 9="3" b="4 4-c 1T"&gt;&lt;a f="\'+D+\'"&gt;\'+Q+\'&lt;/a&gt;&lt;/3&gt;\'}e{6+=\'&lt;3 9="3" b="4 4-c j"&gt;&lt;a f="/x/v/\'+u+\'?&amp;d-r=\'+o+\'"&gt;\'+Q+\'&lt;/a&gt;&lt;/3&gt;\'}}e{5(l=="s"){6+=\'&lt;3 9="3" b="4 4-c j"&gt;&lt;a f="#" A="O(\'+1f+\');B C"&gt;\'+Q+\'&lt;/a&gt;&lt;/3&gt;\'}e{6+=\'&lt;3 9="3" b="4 4-c j"&gt;&lt;a f="#" A="N(\'+1f+\');B C"&gt;\'+Q+\'&lt;/a&gt;&lt;/3&gt;\'}}}5(E&gt;1){5(l=="s"){6+=\'&lt;3 9="3" b="4 4-c j"&gt;&lt;a f="\'+D+\'"&gt;1&lt;/a&gt;&lt;/3&gt;\'}e{6+=\'&lt;3 9="3" b="4 4-c j"&gt;&lt;a f="/x/v/\'+u+\'?&amp;d-r=\'+o+\'"&gt;1&lt;/a&gt;&lt;/3&gt;\'}}5(E&gt;2){6+=\' ... \'}1m(7 m=E;m&lt;=F;m++){5(i==m){6+=\'&lt;3 9="3" b="4 4-c 1E"&gt;\'+m+\'&lt;/3&gt;\'}e 5(m==1){5(l=="s"){6+=\'&lt;3 9="3" b="4 4-c j"&gt;&lt;a f="\'+D+\'"&gt;1&lt;/a&gt;&lt;/3&gt;\'}e{6+=\'&lt;3 9="3" b="4 4-c j"&gt;&lt;a f="/x/v/\'+u+\'?&amp;d-r=\'+o+\'"&gt;1&lt;/a&gt;&lt;/3&gt;\'}}e{5(l=="s"){6+=\'&lt;3 9="3" b="4 4-c j"&gt;&lt;a f="#" A="O(\'+m+\');B C"&gt;\'+m+\'&lt;/a&gt;&lt;/3&gt;\'}e{6+=\'&lt;3 9="3" b="4 4-c j"&gt;&lt;a f="#" A="N(\'+m+\');B C"&gt;\'+m+\'&lt;/a&gt;&lt;/3&gt;\'}}}5(F&lt;g-1){6+=\'...\'}5(F&lt;g){5(l=="s"){6+=\'&lt;3 9="3" b="4 4-c j"&gt;&lt;a f="#" A="O(\'+g+\');B C"&gt;\'+g+\'&lt;/a&gt;&lt;/3&gt;\'}e{6+=\'&lt;3 9="3" b="4 4-c j"&gt;&lt;a f="#" A="N(\'+g+\');B C"&gt;\'+g+\'&lt;/a&gt;&lt;/3&gt;\'}}7 1d=L(i)+1;5(i&lt;g){5(l=="s"){6+=\'&lt;3 9="3" b="4 4-c j"&gt;&lt;a f="#" A="O(\'+1d+\');B C"&gt;\'+1k+\'&lt;/a&gt;&lt;/3&gt;\'}e{6+=\'&lt;3 9="3" b="4 4-c j"&gt;&lt;a f="#" A="N(\'+1d+\');B C"&gt;\'+1k+\'&lt;/a&gt;&lt;/3&gt;&lt;/1l&gt;\'}}7 G=y.1Q("G");7 1a=y.1R("1S-1O");1m(7 p=0;p&lt;G.T;p++){G[p].1i=6}5(G&amp;&amp;G.T&gt;0){6=\'\'}5(1a){1a.1i=6}}I 1g(15){7 U=15.U;7 1x=L(U.1L$1M.$t,10);1s(1x)}I 1B(){7 k=w;5(k.h("/x/v/")!=-1){5(k.h("?V-d")!=-1){u=k.K(k.h("/x/v/")+14,k.h("?V-d"))}e{u=k.K(k.h("/x/v/")+14,k.h("?&amp;d"))}}5(k.h("?q=")==-1&amp;&amp;k.h(".6")==-1){5(k.h("/x/v/")==-1){l="s";5(w.h("#J=")!=-1){i=w.K(w.h("#J=")+8,w.T)}e{i=1}y.1r("&lt;n W=\\""+D+"16/17/13?d-r=1&amp;X=Y-Z-n&amp;R=1g\\"&gt;&lt;\\/n&gt;")}e{l="v";5(k.h("&amp;d-r=")==-1){o=1N}5(w.h("#J=")!=-1){i=w.K(w.h("#J=")+8,w.T)}e{i=1}y.1r(\'&lt;n W="\'+D+\'16/17/13/-/\'+u+\'?X=Y-Z-n&amp;R=1g&amp;d-r=1" &gt;&lt;\\/n&gt;\')}}}I O(H){12=(H-1)*o;M=H;7 11=y.1u(\'1v\')[0];7 z=y.1t(\'n\');z.9=\'1p/1q\';z.1w("W",D+"16/17/13?1A-1z="+12+"&amp;d-r=1&amp;X=Y-Z-n&amp;R=1c");11.1y(z)}I N(H){12=(H-1)*o;M=H;7 11=y.1u(\'1v\')[0];7 z=y.1t(\'n\');z.9=\'1p/1q\';z.1w("W",D+"16/17/13/-/"+u+"?1A-1z="+12+"&amp;d-r=1&amp;X=Y-Z-n&amp;R=1c");11.1y(z)}I 1c(15){1b=15.U.1P[0];7 1j=1b.1n.$t.K(0,19)+1b.1n.$t.K(1G,1D);7 1e=1F(1j);5(l=="s"){7 1h="/x?V-d="+1e+"&amp;d-r="+o+"#J="+M}e{7 1h="/x/v/"+u+"?V-d="+1e+"&amp;d-r="+o+"#J="+M}1C.f=1h}',62,118,'|||button|btn|if|html|var||type||class|default|max|else|href|maksimal|indexOf|nomerhal|showpageNum|thisUrl|jenis|jj|script|postperpage|||results|page||lblname1|label|urlactivepage|search|document|newInclude|onclick|return|false|home_page|mulai|akhir|pageArea|numberpage|function|PageNo|substring|parseInt|nopage|redirectlabel|redirectpage|nomerkiri|upPageWord|callback|numshowpage|length|feed|updated|src|alt|json|in||nBody|jsonstart|summary||root|feeds|posts|banyakdata||blogPager|post|finddatepost|nextnomer|timestamp|prevnomer|hitungtotaldata|alamat|innerHTML|timestamp1|downPageWord|div|for|published|group|text|javascript|write|loophalaman|createElement|getElementsByTagName|head|setAttribute|totaldata|appendChild|index|start|halamanblogger|location|29|showpagePoint|encodeURIComponent|23|of|role|Page|showpageOf|openSearch|totalResults|20|pager|entry|getElementsByName|getElementById|blog|showpage'.split('|'),0,{}))
+//]]&gt;
+&lt;/script&gt;
+&lt;/b:if&gt;
+
+&lt;script type='text/javascript'&gt;
+//&lt;![CDATA[
+if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
+//]]&gt;
+&lt;/script&gt;
+&lt;script type='text/javascript'&gt;
+//&lt;![CDATA[
+document.write("&lt;scr" + "ipt type=\"text/javascript\" src=\"https://www.blogger.com/static/v1/widgets/2759014865-widgets.js\"&gt;&lt;/scr" + "ipt&gt;");
+//]]&gt;
+&lt;/script&gt;
+&lt;script type='text/javascript'&gt;
+if (typeof(BLOG_attachCsiOnload) != &amp;quot;undefined&amp;quot; &amp;amp;&amp;amp; BLOG_attachCsiOnload != null) { window[&amp;quot;blogger_templates_experiment_id&amp;quot;] = &amp;quot;templatesV1&amp;quot;;window[&amp;quot;blogger_blog_id&amp;quot;] = &amp;quot;&lt;data:blog.blogId/&gt;&amp;quot;;BLOG_attachCsiOnload(&amp;quot;&amp;quot;); }_WidgetManager._Init(&amp;quot;//www.blogger.com/rearrange?blogID\x3d&lt;data:blog.blogId/&gt;&amp;quot;,&amp;quot;&lt;data:blog.url/&gt;&amp;quot;,&amp;quot;&lt;data:blog.blogId/&gt;&amp;quot;);
+_WidgetManager._RegisterWidget(&amp;quot;_ContactFormView&amp;quot;, new _WidgetInfo(&amp;quot;ContactForm1&amp;quot;, &amp;quot;footer1&amp;quot;, null, document.getElementById(&amp;quot;ContactForm1&amp;quot;), {&amp;quot;contactFormMessageSendingMsg&amp;quot;: &amp;quot;Sending...&amp;quot;, &amp;quot;contactFormMessageSentMsg&amp;quot;: &amp;quot;Your message has been sent.&amp;quot;, &amp;quot;contactFormMessageNotSentMsg&amp;quot;: &amp;quot;Message could not be sent. Please try again later.&amp;quot;, &amp;quot;contactFormInvalidEmailMsg&amp;quot;: &amp;quot;A valid email address is required.&amp;quot;, &amp;quot;contactFormEmptyMessageMsg&amp;quot;: &amp;quot;Message field cannot be empty.&amp;quot;, &amp;quot;title&amp;quot;: &amp;quot;Contact Form&amp;quot;, &amp;quot;blogId&amp;quot;: &amp;quot;&lt;data:blog.blogId/&gt;&amp;quot;, &amp;quot;contactFormNameMsg&amp;quot;: &amp;quot;Name&amp;quot;, &amp;quot;contactFormEmailMsg&amp;quot;: &amp;quot;Email&amp;quot;, &amp;quot;contactFormMessageMsg&amp;quot;: &amp;quot;Message&amp;quot;, &amp;quot;contactFormSendMsg&amp;quot;: &amp;quot;Send&amp;quot;, &amp;quot;submitUrl&amp;quot;: &amp;quot;https://www.blogger.com/contact-form.do&amp;quot;}, &amp;quot;displayModeFull&amp;quot;));
+&lt;/script&gt;
+&lt;/b:if&gt;
+&amp;lt;!--&lt;/body&gt;--&amp;gt; &amp;lt;/body&amp;gt;
+&lt;/HTML&gt;</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/template/default'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/template/default'/><link rel='alternate' type='text/html' href='http://safelinkrandompost.blogspot.com/'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_PUBLISHING_MODE</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The type of publishing done for this blog.</title><content type='text'>PUBLISH_MODE_BLOGSPOT</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_PUBLISHING_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_PUBLISHING_MODE'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_ADMIN_PERMISSION</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The list of administrators' emails for the blog.</title><content type='text'>rengbukek@gmail.com</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_ADMIN_PERMISSION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_ADMIN_PERMISSION'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_ADULT_CONTENT</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether this blog contains adult content</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_ADULT_CONTENT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_ADULT_CONTENT'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_ALTERNATE_JSRENDER_ALLOWED</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether alternate JS renderings are allowed</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_ALTERNATE_JSRENDER_ALLOWED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_ALTERNATE_JSRENDER_ALLOWED'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_ANALYTICS_ACCOUNT_NUMBER</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Blog's Google Analytics account number</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_ANALYTICS_ACCOUNT_NUMBER'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_ANALYTICS_ACCOUNT_NUMBER'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_ARCHIVE_DATE_FORMAT</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The number of the archive index date format</title><content type='text'>9</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_ARCHIVE_DATE_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_ARCHIVE_DATE_FORMAT'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_ARCHIVE_FREQUENCY</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>How frequently this blog should be archived</title><content type='text'>MONTHLY</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_ARCHIVE_FREQUENCY'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_ARCHIVE_FREQUENCY'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_AUTHOR_PERMISSION</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The list of authors' emails who have permission to publish.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_AUTHOR_PERMISSION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_AUTHOR_PERMISSION'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_BACKLINKS_ALLOWED</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to show comment backlinks on the blog</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_BACKLINKS_ALLOWED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_BACKLINKS_ALLOWED'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_BY_POST_ARCHIVING</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to provide an archive page for each post</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_BY_POST_ARCHIVING'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_BY_POST_ARCHIVING'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_COMMENT_ACCESS</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Who can comment</title><content type='text'>BLOGGERS</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_ACCESS'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_ACCESS'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_COMMENT_CAPTCHA</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to require commenters to complete a Captcha</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_CAPTCHA'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_CAPTCHA'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_COMMENT_EMAIL</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>List of e-mail addresses to send notifications of new comments to</title><content type='text'>rengbukek@gmail.com</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_EMAIL'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_COMMENT_FEED</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The type of feed to provide for blog comments</title><content type='text'>FULL</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_FEED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_FEED'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_COMMENT_FORM_LOCATION</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Blog comment form location</title><content type='text'>EMBEDDED_IFRAME</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_FORM_LOCATION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_FORM_LOCATION'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_COMMENT_MESSAGE</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Blog comment message</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_MESSAGE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_MESSAGE'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_COMMENT_MODERATION</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to enable comment moderation</title><content type='text'>DISABLED</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_MODERATION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_MODERATION'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_COMMENT_MODERATION_DELAY</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Number of days after which new comments are subject to moderation</title><content type='text'>14</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_MODERATION_DELAY'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_MODERATION_DELAY'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_COMMENT_MODERATION_EMAIL</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Email address to send notifications of new comments needing moderation to</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_MODERATION_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_MODERATION_EMAIL'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_COMMENT_PROFILE_IMAGES</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to show profile images in comments</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_PROFILE_IMAGES'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENT_PROFILE_IMAGES'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_COMMENTS_ALLOWED</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to show comments</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENTS_ALLOWED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENTS_ALLOWED'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_COMMENTS_TIME_STAMP_FORMAT</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Comment time stamp format number</title><content type='text'>29</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENTS_TIME_STAMP_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_COMMENTS_TIME_STAMP_FORMAT'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_CONVERT_LINE_BREAKS</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to convert line breaks into &lt;br /&gt; tags in post editor</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_CONVERT_LINE_BREAKS'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_CONVERT_LINE_BREAKS'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_CUSTOM_ADS_TXT</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The custom ads.txt content of the blog served to ads search engines.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_CUSTOM_ADS_TXT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_CUSTOM_ADS_TXT'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_CUSTOM_ADS_TXT_ENABLED</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether this blog serves custom ads.txt content to ads search engines.</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_CUSTOM_ADS_TXT_ENABLED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_CUSTOM_ADS_TXT_ENABLED'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_CUSTOM_PAGE_NOT_FOUND</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The content served when the requested post or page is not found.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_CUSTOM_PAGE_NOT_FOUND'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_CUSTOM_PAGE_NOT_FOUND'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_CUSTOM_ROBOTS_TXT</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The custom robots.txt content of the blog served to search engines.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_CUSTOM_ROBOTS_TXT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_CUSTOM_ROBOTS_TXT'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_CUSTOM_ROBOTS_TXT_ENABLED</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether this blog serves custom robots.txt content to search engines.</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_CUSTOM_ROBOTS_TXT_ENABLED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_CUSTOM_ROBOTS_TXT_ENABLED'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_DATE_FORMAT</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The number of the date header format</title><content type='text'>26</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_DATE_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_DATE_FORMAT'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_DEFAULT_BACKLINKS_MODE</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Default backlinks mode for posts</title><content type='text'>DEFAULT_HAVE_BACKLINKS</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_DEFAULT_BACKLINKS_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_DEFAULT_BACKLINKS_MODE'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_DEFAULT_COMMENTS_MODE</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Default comment mode for posts</title><content type='text'>DEFAULT_HAVE_COMMENTS</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_DEFAULT_COMMENTS_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_DEFAULT_COMMENTS_MODE'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_DESCRIPTION</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>A description of the blog</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_DESCRIPTION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_DESCRIPTION'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_EMAIL_POST_LINKS</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to show a link for users to e-mail posts</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_EMAIL_POST_LINKS'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_EMAIL_POST_LINKS'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_FEED_REDIRECT_URL</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>URL to redirect post feed requests to</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_FEED_REDIRECT_URL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_FEED_REDIRECT_URL'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_FLOAT_ALIGNMENT</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether float alignment is enabled for the blog</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_FLOAT_ALIGNMENT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_FLOAT_ALIGNMENT'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_LOCALE</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Language for this blog</title><content type='text'>en</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_LOCALE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_LOCALE'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_MAX_NUM</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Maximum number of things to show on the main page"</title><content type='text'>7</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_MAX_NUM'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_MAX_NUM'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_MAX_UNIT</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Unit of things to show on the main page</title><content type='text'>POSTS</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_MAX_UNIT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_MAX_UNIT'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_META_DESCRIPTION</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The meta description of the blog served to search engines.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_META_DESCRIPTION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_META_DESCRIPTION'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_META_DESCRIPTION_ENABLED</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether this blog is served with meta descriptions.</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_META_DESCRIPTION_ENABLED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_META_DESCRIPTION_ENABLED'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_NAME</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The name of the blog</title><content type='text'>Safelink Random Post</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_NAME'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_NAME'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_PER_POST_FEED</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The type of feed to provide for per-post comments</title><content type='text'>FULL</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_PER_POST_FEED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_PER_POST_FEED'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_POST_FEED</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The type of feed to provide for blog posts</title><content type='text'>FULL</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_POST_FEED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_POST_FEED'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_POST_FEED_FOOTER</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Footer to append to the end of each entry in the post feed</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_POST_FEED_FOOTER'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_POST_FEED_FOOTER'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_POST_TEMPLATE</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The template for blog posts</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_POST_TEMPLATE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_POST_TEMPLATE'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_PROMOTED</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether this blog can be promoted on Blogger</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_PROMOTED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_PROMOTED'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_QUICK_EDITING</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether Quick Editing is enabled</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_QUICK_EDITING'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_QUICK_EDITING'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_READ_ACCESS_MODE</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The access type for the readers of the blog.</title><content type='text'>PUBLIC</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_READ_ACCESS_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_READ_ACCESS_MODE'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_READER_PERMISSION</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The list of emails for users who have permission to read the blog.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_READER_PERMISSION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_READER_PERMISSION'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_SEARCHABLE</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether this blog should be indexed by search engines</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_SEARCHABLE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_SEARCHABLE'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_SEND_EMAIL</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Comma separated list of emails to send new blog posts to</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_SEND_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_SEND_EMAIL'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_SHOW_TITLE</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to show the title field</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_SHOW_TITLE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_SHOW_TITLE'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_SHOW_URL</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to show a related link box in the post composer</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_SHOW_URL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_SHOW_URL'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_SUBDOMAIN</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The BlogSpot subdomain under which to publish your blog</title><content type='text'>safelinkrandompost</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_SUBDOMAIN'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_SUBDOMAIN'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_TIME_STAMP_FORMAT</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The number of the time stamp format</title><content type='text'>15</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_TIME_STAMP_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_TIME_STAMP_FORMAT'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_TIME_ZONE</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The time zone for this blog</title><content type='text'>America/Los_Angeles</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_TIME_ZONE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_TIME_ZONE'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.settings.BLOG_USE_LIGHTBOX</id><published>2018-09-27T16:17:44.303-07:00</published><updated>2018-09-27T17:27:49.133-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to show images in the Lightbox when clicked</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_USE_LIGHTBOX'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/settings/BLOG_USE_LIGHTBOX'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.post-1183409099562765713</id><published>2018-09-27T17:14:00.003-07:00</published><updated>2018-09-27T17:25:29.949-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><title type='text'>Practice Environmental Qwareness To Our Surroundings</title><content type='html'>Autos are without a doubt genuine marvels of designing. In any case, with more vehicles on the streets now than any time in recent memory, it is vital that each of us knows about its effects on our surroundings. Whether you claim or lease an auto, whether you have a standard or extravagance auto, there are things you can do to spare cash and decrease vitality use, CO2 emanations and contamination.&lt;br /&gt; LETAKKAN DISINI  &lt;br /&gt;In the event that you think about an eco-accommodating drive as well, you'll be satisfied to hear there are a couple of basic ways you can have any kind of effect.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Moderate down continuously: Backing off bit by bit at Activity Lights is better for the earth as it diminishes fuel utilization.&lt;/li&gt;&lt;li&gt;Drive at a predictable velocity: Quickening and breaking hard will cut the proficiency of your drive by around 33%. That is on account of sudden halting and beginning requires more vitality. Attempt and keep up a general velocity to get the most out of your fuel.&lt;/li&gt;&lt;li&gt;Use voyage control: Utilizing journey control on level landscape gives a 7% fuel saving money on a normal since it helps you keep up an enduring pace. Maintain a strategic distance from it on uneven streets however as this will bring about your motor to accelerate and back off.&lt;/li&gt;&lt;li&gt;Administration your auto: Guaranteeing your fuel framework is working appropriately and your tires are expanded and adjusted to makers' details can guarantee fuel proficiency.&lt;/li&gt;&lt;li&gt;Exchanging off the additional items: Aerating and cooling and radiators require colossal measure of force, which will cut your mileage. All things considered, driving with the windows open makes drag, so you have to discover a parity to keep up a comfortable temperature inside your auto.&lt;/li&gt;&lt;li&gt;Change gears at lower revs: Over-revving squanders loads of fuel. In the event that you switch up somewhat prior this will decrease your revs. In case you're driving a diesel auto, we propose you intend to up-change a gear when the rev counter achieves 2000 rpm. For petrol autos, we recommend 2500 rpm.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Arrangement your outing: The more straightforward your course and the less time you spend backing off to make sense of which approach to go, the more productive your drive will be.&lt;/li&gt;&lt;li&gt;Close down: Switch off the motor on the off chance that you think you will be stationary for over two minutes.&lt;/li&gt;&lt;li&gt;Lose the weight: Additional weight means additional fuel, so if there's pointless things in the boot you don't require on the adventure, take it out and store it at home.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;&lt;br /&gt;These couple of straightforward little changes to your auto and driving procedures can be taken after on both claimed and leased cars.This would advance help you spare the earth as well as your cash as well.&lt;br /&gt;&lt;br /&gt;Practice environmental awareness and Have any kind of effect to our surroundings!&lt;br /&gt;&lt;br /&gt;</content><link rel='replies' type='application/atom+xml' href='https://safelinkrandompost.blogspot.com/feeds/1183409099562765713/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='http://safelinkrandompost.blogspot.com/2018/09/practice-environmental-qwareness-to-our.html#comment-form' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/posts/default/1183409099562765713'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/posts/default/1183409099562765713'/><link rel='alternate' type='text/html' href='http://safelinkrandompost.blogspot.com/2018/09/practice-environmental-qwareness-to-our.html' title='Practice Environmental Qwareness To Our Surroundings'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.post-1213979418681494414</id><published>2018-09-27T17:13:00.002-07:00</published><updated>2018-09-27T17:25:47.558-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><title type='text'>Advantages Of Being A Home Business Owner</title><content type='html'>The number of home businesses is increasing a day as a lot of individuals area unit deciding to travel solo and be their own boss. There area unit several benefits of changing into a home business owner and also the risks area unit less than beginning the other variety of business. beginning a business is typically terribly trying, strenuous, and needs lots of your time and cash. On the opposite hand, if you will be operational your business from home, you will be saving lots of cash, time and energy. additionally, you will be able to pay rather more time together with your family whereas creating enough cash to support them. functioning from house is particularly helpful if you have got youngsters. you'll be able to be there for them within the case of emergency, and you may get to pay some together with your family during a heat and captivated surroundings. simply certify you do not dump your obligations. you continue to ought to add order to create cash.&lt;br /&gt; LETAKKAN DISINI  &lt;br /&gt;The numerous benefits of running a home business area unit what attracts such a lot of individuals to do to create cash by functioning from home. you'll be able to be versatile together with your work hours and you will not ought to pay any time or cash to urge to figure. Besides saving you time and cash, this will extremely boost your earnings. you'll be able to confirm after you wish to travel to figure, which implies you may ought to work late or work strange hours. you cannot opt for after you wish to travel to figure by operating for somebody else. There area unit several selling ways to find out if you would like to create more cash functioning from home, therefore learning sure skills area unit essential. you will additionally learn on the method, however obtaining au courant ahead is way easier and cheaper.&lt;br /&gt;&lt;br /&gt;Finally, with the new financial gain you may earn, you may be able to pay a lot of on your family, you may be able to obtain new toys for your children, and you may be able to select a pleasant family vacation. Besides the sense of non-public freedom and satisfaction of having the ability to require care of your family, you will even be learning new things and active responsibility and management skills. Studies have shown that homeowners of home businesses area unit happier than executives in huge companies, and you'll be able to simply see why. there isn't any boss to nag after you build an error, your work surroundings is a smaller amount trying, and you get to stay the money you create for yourself.&lt;br /&gt;&lt;br /&gt;Is it potential for you to earn nice financial gain from home?&lt;br /&gt;&lt;br /&gt;The answer is affirmative. However, seven out of nine individuals fail each single day as a result of they lack the information it takes to create a fortunate home business. There area unit several factors concerned that build creating cash from home sophisticated. to create it simple on yourself, it's counseled to consult the consultants United Nations agency are within the arena before.&lt;br /&gt;&lt;br /&gt;</content><link rel='replies' type='application/atom+xml' href='https://safelinkrandompost.blogspot.com/feeds/1213979418681494414/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='http://safelinkrandompost.blogspot.com/2018/09/advantages-of-being-home-business-owner.html#comment-form' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/posts/default/1213979418681494414'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/posts/default/1213979418681494414'/><link rel='alternate' type='text/html' href='http://safelinkrandompost.blogspot.com/2018/09/advantages-of-being-home-business-owner.html' title='Advantages Of Being A Home Business Owner'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.post-434353681853075835</id><published>2018-09-27T17:12:00.003-07:00</published><updated>2018-09-27T17:27:15.755-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><title type='text'>10 Tips For Start A Small Business Startup</title><content type='html'>According to a recent Forbes.com article, over a 0.5 1,000,000 tiny businesses start monthly whereas a lot of pack up than start-up. With this datum, it isn't a surprise that some would be suspicious in change of integrity the just about thirty million tiny businesses within the u.  s.. it's going to additionally come back as a surprise that over half the operating population works in a very tiny business which most tiny businesses ar home-based. Why then do individuals begin tiny businesses with these types of odds? as a result of several people ar still deciding what we wish to be after we grow old. And once we've learned that, we elect to form a go of it on our own.&lt;br/&gt; LETAKKAN DISINI  &lt;br/&gt;Starting alittle business or a home-based business isn't one thing that ought to be entered into gently. a lot of typically than not you will undergo an extended amount languishing whereas making an attempt to form your business viable. like several massive selections in life, beginning a business could be a terribly massive risk. there is ne'er Associate in Nursing assurance of success. Rather, it's expected and statistically doubtless that you're going to fail. However, if you are willing to figure at beating the percentages and fulfill an expert goal, this could still be the route for you. &lt;br/&gt;&lt;br/&gt;I'd worked in libraries for over a decade. I spent the bulk of that point in library administration. I knew an honest deal concerning the way to run alittle business as a result of i would basically been doing thus for quite it slow. However, once you leave on your own there ar several pitfalls which will be created in your businesses' infancy. Contrary to the popular song lyrics, the most effective things in life are not free. Shortcuts can doubtless come to haunt you so too won't fitting the equity required to not solely financially succeed, however to additionally feel showing emotion and psychologically authorised. &lt;br/&gt;&lt;br/&gt;If you would like to start out alittle business it's to be a deliberate method. However, it does not have to be compelled to be a rich one. It does not hurt for you to try and do some analysis. the little Business Administration could be a nice free resource. thus too ar the books. Really, there ar any variety of tools to assist you start-up or navigate the waters of tiny business. If you are like the just about seventy fifth of all U.S. business United Nations agency ar non-employers (self-employed with no further payroll or employees), then you'll be able to make sure that there's lots of data to assist you bring home the bacon your goals. &lt;br/&gt;&lt;br/&gt;Running alittle home-based business will be cheap, not cheap. do not save on the things which will extremely cause you to seem a lot of skilled while not breaking the budget. Here ar a number of startup tips for your business: &lt;br/&gt;&lt;br/&gt;&lt;b&gt;1. Get a site name.&lt;br/&gt;&lt;/b&gt;You may not have to be compelled to register your business's name with the state. the actual fact is, that method could also be unneeded and It will be pricey looking on the character of your business. However, it helps if you've got a site name in order that you'll be able to have a conventional on-line front and presence. that may not to mention that you just have to be compelled to sell merchandise through your website, it simply implies that you've got an area that you just will send individuals to on-line to seek out out a lot of data concerning you and your merchandise and services. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;2. Use social media.&lt;br/&gt;&lt;/b&gt;No longer will individuals lament concerning however they do not use Facebook or Twitter, being on social media additionally lends Associate in Nursing air of believability and savviness to your business. exploitation social media is cheap and simple. There ar lots of on-line tutorials on the way to use social media and by obtaining yourself out there by exploitation the social media networks, it opens you up to a lot of purchasers and therefore the ability to act in period of time with them furthermore. Also, do not merely have a presence on social media, looking on your demographic, there ar still some folks that merely are not exploitation social media. Thus, you need to even have Associate in Nursing simply accessible webpage furthermore. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;3. It does not hurt to use old-fashioned promoting tools.&lt;br/&gt;&lt;/b&gt;Professional business cards furthermore as promoting things ar currently nominal in price. do not simply accept free cards, pay that small further to whole your things. this manner you'll be able to be absolutely responsible of the message you are putt out there. rely on it, what did you think that of the one who handed  you a identity card that were clearly free ones?! &lt;br/&gt;&lt;br/&gt;&lt;b&gt;4. Use accounting computer code.&lt;br/&gt;&lt;/b&gt;Quickbooks, Freshbooks, Nutcache and therefore the list goes on. you'll be able to even use surpass if you are thus inclined. Regardless, it's imperative that you just begin consistent and correct record keeping from the terribly begin. confirm that every one of your transactions, massive and little, ar in a very place which will build it straightforward for you come back tax time. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;5. add the cloud and back it up.&lt;br/&gt;&lt;/b&gt;Cloud-based computer code is out there for everything. It additionally does not hurt to use free ones during this case. Google is that the gold customary once it involves free. However, document creation and retention are not the sole belongings you will kill the cloud. Accounting computer code, web site administration, nearly something you'll be able to think about will be tired the cloud. Plus, it makes your information accessible anyplace that has a web affiliation. and do not forget to backup your work. If you are saving your work to your pc or saving it to a virtual drive within the cloud, make sure that you just have a backup. Redundancy is vital and it also can be terribly economical. an honest rule of thumb is to own a physical and virtual off-site backup as a result of Sod's Law continuously happens. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;6. Be virtual.&lt;br/&gt;&lt;/b&gt;Depending on the sort of services you provide, there ar firms out there which will assist you in obtaining jobs/projects. firms like Upwork give you with an area to supply your services to others and provides you with a web geographical point. Being a freelancer has ne'er been very easy. As a freelancer, you do not have to be compelled to limit however and the way many consumers you've got. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;7. you've got to pay some to induce some.&lt;br/&gt;&lt;/b&gt;Yes, you'll be able to begin a brand new business with no price, however, by investment simply somewhat cash direct you will nearly guarantee a come back on your investment. obtain a virtual fax service, promoting materials and alternative very little things which will go an extended manner in making certain that your business isn't the same as each alternative "mom and pop" business. simply watch out to not go bushed too quick. revenant prices, tho' tiny, will add up quick. If you've got revenant prices it implies that you've got to earn a minimum of that a lot of cash per month. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;8. Be tax savvy.&lt;br/&gt;&lt;/b&gt;You must be cognizant of what quite tax impact there'll be as a results of your business. it's normal, looking on the sort of business you've got and if you do not have workers, for you to not withhold any taxes throughout your 1st year. obtaining a baseline for what your business are going to be like is very important, simply remember that Uncle Sam might hit you with an outsized bill at tax time. Visit the IRS web site or speak to a tax skilled to assist you with obtaining this sorted out before it becomes a really high-priced mistake. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;9. build time for yourself.&lt;br/&gt;&lt;/b&gt;When you decide to owning alittle business the one factor you are secured is that it's planning to be arduous. Despite however difficult it's, you've got to require time for yourself. it is easy to figure long hours and to forget that we tend to are not machines. though it's simply a 15-minute walk every day or one thing else which will hack your workday, you need to not forget that generally it is best to virtually go away to clear your head. this can do wonders for your mood and your method. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;10. Be disciplined. &lt;/b&gt;Sure, we tend to all assume that operating for ourselves would be the most effective job within the world. however it isn't till you are really doing it {that you|that you simply|that you simply} notice just however straightforward it's to be unfree by the pitfalls of getting no alternative boss than yourself. That fast tv break inevitably turns into a tv marathon, sleeping in in the future turns into not setting the correct habits you wish to achieve success. it is easy to mention that you are going be disciplined and absolutely dedicated to the success of your business, however recent habits do endure. &lt;br/&gt;&lt;br/&gt;Each day brings challenges and uncertainties. you've got to be willing to fail stunningly. however you furthermore mght have to be compelled to be willing to like and nurture your business even on the times once you simply do not feel adore it. If you do not work, you do not get paid. Despite that, the sky is the limit and your earning potential is limitless once you've got devoted yourself to doing what it's that you just ar hooked in to. it is important to recollect that you are not to offer up once it gets arduous. Those ar the days you've got to essentially dig in and bear in mind why it's that you are doing it within the 1st place.  </content><link rel='replies' type='application/atom+xml' href='https://safelinkrandompost.blogspot.com/feeds/434353681853075835/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='http://safelinkrandompost.blogspot.com/2018/09/10-tips-for-start-small-business-startup.html#comment-form' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/posts/default/434353681853075835'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/posts/default/434353681853075835'/><link rel='alternate' type='text/html' href='http://safelinkrandompost.blogspot.com/2018/09/10-tips-for-start-small-business-startup.html' title='10 Tips For Start A Small Business Startup'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.post-2402305813885728353</id><published>2018-09-27T17:11:00.003-07:00</published><updated>2018-09-27T17:27:49.001-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><title type='text'>The Way To Start A Business At Home</title><content type='html'>Many people place confidence in doing a home business, however your should initial place confidence in what you have got a passion to try and do. that's therefore necessary. If you plan to do a home business you care nothing regarding, it'll show. Believe Maine if you have got no passion it'll show. simply having a thought come back to the highest of your head might not be enough. you wish to form positive no matter plan you have got is not something quite a hobby &lt;br/&gt;&lt;br/&gt; LETAKKAN DISINI  The worst mistake anyone will build is to quit their gift employment so as to start out a home business. even if it should be a business which will initiate and have immense potential, you only don't desire to leap out there to shortly. you'll would like lots of patience as you get into your plan. &lt;br/&gt;&lt;br/&gt;Little stuff you will do to urge the texture of a home business you have got is connect with somebody that's doing that very same business. whether or not it's face to face or networking on-line. There area unit several trusty individuals on-line that area unit willing to share. simply use caution as a result of there area unit {many individuals|many of us|many folks} that wish to kill people on-line. i'm someone which will do what I will to answer any queries associated with acting from home for people who want to try and do therefore. &lt;br/&gt;&lt;br/&gt;You want to form positive you write up a business set up. Goals and plans are going to be essential in serving to you achieve success. this can keep you on task and you'll be able to use as a reference for your business. additionally if you have got family or a trusty person get them attached  you. 2 minds is higher than one. &lt;br/&gt;&lt;br/&gt;Simple things to try and do as you begin your passion of a home business is moonlight. strive against a part-time job to change you to save lots of and prepare. This should not subtract from your current money scenario. it should be some long days and hours, however you have got to place confidence in the good reward ahead. &lt;br/&gt;&lt;br/&gt;Find free info on-line. E-courses area unit very hip and without delay on-line. benefit of them. I will bear in mind the time wherever I browse perpetually on-line and took everything I browse seriously. I still browse and network with others on-line. it's crucial so as to remain driven and be inspired. &lt;br/&gt;&lt;br/&gt;Tax advantages will work to your advantage whereas acting from home. make certain to follow abreast of the office web site. looking on the business you will be needed to possess sectionalisation and sure license. simply do your preparation. &lt;br/&gt;&lt;br/&gt;A website is terribly valuable. once more there area unit several free resources to even build your own website. area unit there area unit websites wherever freelancers charge a awfully little fee to style a site for you. the online is jam-packed with individuals craving for what you have got moreover as willing to assist. &lt;br/&gt;&lt;br/&gt;Last thing i'll say here to be effective in beginning a home business is - set up, Prepare and Pursue. Passion should be your key motivation with a home business or something you wish to try and do. you cannot begin one thing you have got no passion for. i'm approached typically to try and do commercialism and a business that I even have no want to try and do. I refuse to try and do it for the easy truth it may generate a decent financial gain. i'll persist with what is in my heart. If you'll be able to dream it - you'll be able to have it. &lt;br/&gt;&lt;br/&gt;I have a powerful passion to assist people who need to be in their home whereas earning associate degree financial gain. whereas I even have been blessed to try and do work home, I simply bear in mind however time overwhelming and exhausting it absolutely was. i need to assist the maximum amount as I will to assist dreams and passions come back true for others. that's why I even have a website which will lead you to honest articles and resources. </content><link rel='replies' type='application/atom+xml' href='https://safelinkrandompost.blogspot.com/feeds/2402305813885728353/comments/default' title='Post Comments'/><link rel='replies' type='text/html' href='http://safelinkrandompost.blogspot.com/2018/09/the-way-to-start-business-at-home.html#comment-form' title='0 Comments'/><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/posts/default/2402305813885728353'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/posts/default/2402305813885728353'/><link rel='alternate' type='text/html' href='http://safelinkrandompost.blogspot.com/2018/09/the-way-to-start-business-at-home.html' title='The Way To Start A Business At Home'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.page-4716295287147151283</id><published>2018-09-27T17:03:00.001-07:00</published><updated>2018-09-27T17:03:37.808-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#page'/><title type='text'>Image post</title><content type='html'>&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="https://2.bp.blogspot.com/-dlaJlcWRae0/WmfEp9EkqgI/AAAAAAAAC8c/qylz9OOZ9VE9AZ7mkwEd0O5KEXsrFRGAACLcBGAs/s1600/e246be21addaf8d74cac4cf3a396a35c.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="1067" data-original-width="1600" src="https://2.bp.blogspot.com/-dlaJlcWRae0/WmfEp9EkqgI/AAAAAAAAC8c/qylz9OOZ9VE9AZ7mkwEd0O5KEXsrFRGAACLcBGAs/s1600/e246be21addaf8d74cac4cf3a396a35c.jpg" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt; &lt;a href="https://4.bp.blogspot.com/-bC6LKT4IXbE/WmfG2SmNlrI/AAAAAAAAC8o/o2BOdjFZwvMPE4MLdRup-xrXmYsZQB-xACLcBGAs/s1600/Pehawe.jpg" imageanchor="1" &gt;&lt;img border="0" src="https://4.bp.blogspot.com/-bC6LKT4IXbE/WmfG2SmNlrI/AAAAAAAAC8o/o2BOdjFZwvMPE4MLdRup-xrXmYsZQB-xACLcBGAs/s1600/Pehawe.jpg" data-original-width="1440" data-original-height="900" /&gt;&lt;/a&gt;</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/pages/default/4716295287147151283'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/pages/default/4716295287147151283'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author><media:thumbnail xmlns:media='http://search.yahoo.com/mrss/' url='https://2.bp.blogspot.com/-dlaJlcWRae0/WmfEp9EkqgI/AAAAAAAAC8c/qylz9OOZ9VE9AZ7mkwEd0O5KEXsrFRGAACLcBGAs/s72-c/e246be21addaf8d74cac4cf3a396a35c.jpg' height='72' width='72'/></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.page-339703572372623307</id><published>2018-09-27T17:03:00.000-07:00</published><updated>2018-09-27T17:03:37.470-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#page'/><title type='text'>Go to URL</title><content type='html'>  &lt;div class="text-center margin-bottom-20"&gt;&lt;h3&gt;Advertise&lt;/h3&gt;KODE IKLAN DI SINI   &lt;/div&gt; &lt;div class="row margin-bottom-20"&gt;  &lt;div class="col-md-6"&gt;&lt;div class="panel panel-primary"&gt;    &lt;div class="panel-heading text-center"&gt;&lt;h2&gt;&lt;i class="fa fa-shield"&gt;&lt;/i&gt; Safe Link Converter &lt;i class="fa fa-shield"&gt;&lt;/i&gt;&lt;/h2&gt;&lt;/div&gt;        &lt;div class="panel-body text-center"&gt;          &lt;p class="text-primary margin-bottom-20"&gt;Encrypting your link and protect the link from viruses, malware, thief, etc!&lt;br/&gt;Made your link safe to visit.&lt;/p&gt; &lt;div class="progress" id="daplong"&gt;    &lt;div class="progress-bar progress-bar-striped active six-sec-ease-in-out" role="progressbar" data-transitiongoal="100"&gt;&lt;/div&gt;&lt;/div&gt;&lt;button id="download2" class="alert alert-dismissible alert-success btn-lg" style='display:none'&gt;&lt;i class="fa fa-thumbs-o-up" aria-hidden="true"&gt;&lt;/i&gt; &lt;strong&gt;Well done!&lt;/strong&gt; you have successfully gained access to Decrypted Link.&lt;/button&gt;         &lt;/div&gt;      &lt;/div&gt;&lt;/div&gt;  &lt;div class="col-md-6 text-left"&gt;&lt;div class="panel panel-info"&gt;  &lt;!-- Default panel contents --&gt;  &lt;div class="panel-heading"&gt;&lt;h2&gt;&lt;i class="fa fa-question-circle-o" aria-hidden="true"&gt;&lt;/i&gt; How to use our tool:&lt;/h2&gt;&lt;/div&gt;  &lt;div class="panel-body"&gt;&lt;ol&gt;&lt;li&gt;Click on &lt;strong&gt;How To Use&lt;/strong&gt; menu above.&lt;/li&gt;&lt;li&gt;Click on the code and &lt;kbd&gt;&lt;kbd&gt;CTRL&lt;/kbd&gt; + &lt;kbd&gt;C&lt;/kbd&gt;&lt;/kbd&gt; on your keyboard.&lt;/li&gt;&lt;li&gt;Paste the code in your HTML blog theme before the &lt;mark&gt;&amp;lt;/body&amp;gt;&lt;/mark&gt;.&lt;/li&gt;&lt;li&gt;Save your HTML blog theme. you are done!&lt;/li&gt;&lt;li&gt;Now, your blog's outbound links was encrypted!&lt;/li&gt;&lt;/ol&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="clear"&gt;&lt;/div&gt;&lt;/div&gt; &lt;div class="row margin-bottom-20"&gt;  &lt;div class="col-md-4 text-center"&gt;&lt;h3&gt;Advertise&lt;/h3&gt;KODE IKLAN DI SINI &lt;/div&gt;  &lt;div class="col-md-4 margin-top-25"&gt;&lt;div class="panel panel-success text-center"&gt;  &lt;div class="panel-heading"&gt;&lt;h3 class="panel-title"&gt;&lt;strong&gt;Your link show here&lt;/strong&gt; &lt;i class="fa fa-hand-o-down" aria-hidden="true"&gt;&lt;/i&gt;&lt;/h3&gt;&lt;/div&gt;  &lt;div class="panel-body"&gt;&lt;script src="https://cdn.rawgit.com/pehawe/file/master/phwsafelinkjs.js" type="text/javascript"&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;var currentURL=location.href; var str = currentURL; var res = str.replace("https://justforsafelink.blogspot.com/p/go-to-url.html?url=", ""); document.write('&lt;button type="button" id="download" class="Visit_Link btn btn-success" onclick="changeLink();" style="display: none;"&gt;&lt;strong&gt;Visit Link&lt;/strong&gt; &lt;i class="fa fa-external-link" aria-hidden="true"&gt;&lt;/i&gt;&lt;/button&gt;') &lt;/script&gt;  &lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div class="col-md-4 text-center"&gt;&lt;h3&gt;Advertise&lt;/h3&gt;KODE IKLAN DI SINI &lt;/div&gt;&lt;div class="clear"&gt;&lt;/div&gt;&lt;/div&gt; &lt;div class="container"&gt;  &lt;div class="text-left"&gt;   &lt;/div&gt;&lt;/div&gt;</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/pages/default/339703572372623307'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/pages/default/339703572372623307'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry><entry><id>tag:blogger.com,1999:blog-450943824368432516.page-6809164499108122650</id><published>2018-09-27T16:19:00.001-07:00</published><updated>2018-09-27T16:19:42.733-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#page'/><title type='text'>Go To URL</title><content type='html'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/pages/default/6809164499108122650'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/450943824368432516/pages/default/6809164499108122650'/><link rel='alternate' type='text/html' href='http://safelinkrandompost.blogspot.com/p/go-to-url.html' title='Go To URL'/><author><name>Ruby Jr</name><uri>https://plus.google.com/114062935741060766062</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35'/></author></entry></feed>
